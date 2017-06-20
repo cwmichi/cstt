@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/tile
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/tile/atomic.h
+END
+ethread.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/tile/ethread.h
+END
+ethr_membar.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/tile/ethr_membar.h
+END

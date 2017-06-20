@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent
+END
+context.conf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/context.conf
+END
+target_addr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/target_addr.conf
+END
+usm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/usm.conf
+END
+standard.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/standard.conf
+END
+community.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/community.conf
+END
+notify.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/notify.conf
+END
+agent.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/agent.conf
+END
+vacm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/vacm.conf
+END
+target_params.conf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/priv/conf/agent/target_params.conf
+END

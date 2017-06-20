@@ -1,0 +1,40 @@
+%% Map Function
+fun({Doc}) ->
+ case proplists:get_value(<<"type">>, Doc) of
+    <<"ticket">> ->
+       <<K,_/binary>> = proplists:get_value(<<"_rev">>, Doc, null),
+%% Get couchDB doc._id
+ DocID = proplists:get_value(<<"_id">>, Doc, null),
+%% get search values from couchdb
+Title = proplists:get_value(<<"title">>, Doc, null),
+TicketNumber = proplists:get_value(<<"ticketNumber">>, Doc, null),
+Description = proplists:get_value(<<"description">>, Doc, null),
+CustomerDocID = proplists:get_value(<<"customerDocID">>, Doc, null),
+Solution = proplists:get_value(<<"solution">>, Doc, list_to_binary("null")),
+QualifiedSolution = proplists:get_value(<<"qualifiedSolution">>, Doc, list_to_binary("null")),
+
+TokenTitle = binary:split(Title, <<" ">>, [trim,global]),
+TokenSolution = binary:split(Solution, <<" ">>, [trim,global]),
+TokenDescription = binary:split(Description, <<" ">>,[trim,global]),
+TokenQualifiedS = binary:split(QualifiedSolution, <<" ">>,[trim,global]),
+
+%% emit words from TokenTitle
+lists:foreach(fun(TokenTitle) -> Emit(TokenTitle, DocID) end, TokenTitle),
+
+%% emit words from TokenDescription
+lists:foreach(fun(TokenDescription) -> Emit(TokenDescription, DocID) end, TokenDescription),
+
+%% emit words from TokenSolution
+lists:foreach(fun(TokenSolution) -> Emit(TokenSolution, DocID) end, TokenSolution),
+
+%% emit words from TokenQualifiedS
+lists:foreach(fun(TokenQualifiedS) -> Emit(TokenQualifiedS, DocID) end, TokenQualifiedS),
+
+%% emit TicketNumber
+Emit(TicketNumber, DocID);
+
+    _ ->
+      ok
+  end
+
+end.

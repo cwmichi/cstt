@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src
+END
+ictk.erl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ictk.erl
+END
+ic_java_type.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_java_type.erl
+END
+ictype.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ictype.erl
+END
+ic_fetch.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_fetch.erl
+END
+ic_union_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_union_java.erl
+END
+icscan.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icscan.erl
+END
+icforms.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icforms.hrl
+END
+icparse.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icparse.erl
+END
+ic.erl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic.erl
+END
+icenum.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icenum.erl
+END
+ic.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic.hrl
+END
+ic_noc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_noc.erl
+END
+ic_codegen.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_codegen.erl
+END
+ic_erl_template.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_erl_template.erl
+END
+icpreproc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icpreproc.erl
+END
+ic_error.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_error.erl
+END
+ic_struct_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_struct_java.erl
+END
+ic_plainbe.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_plainbe.erl
+END
+ic_attribute_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_attribute_java.erl
+END
+ic_genobj.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_genobj.erl
+END
+icparse.yrl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icparse.yrl
+END
+icstruct.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icstruct.erl
+END
+ic_debug.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_debug.hrl
+END
+ic_code.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_code.erl
+END
+ic_symtab.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_symtab.erl
+END
+icunion.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/icunion.erl
+END
+iceval.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/iceval.erl
+END
+ic_constant_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_constant_java.erl
+END
+ic_options.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_options.erl
+END
+ic_enum_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_enum_java.erl
+END
+ic_sequence_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_sequence_java.erl
+END
+ic_erlbe.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_erlbe.erl
+END
+ic_cbe.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_cbe.erl
+END
+ic_cserver.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_cserver.erl
+END
+ic_file.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_file.erl
+END
+ic_pragma.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_pragma.erl
+END
+ic_pp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_pp.erl
+END
+ic_util.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_util.erl
+END
+ic_jbe.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_jbe.erl
+END
+ic_cclient.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_cclient.erl
+END
+ic_forms.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_forms.erl
+END
+ic_array_java.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/src/ic_array_java.erl
+END

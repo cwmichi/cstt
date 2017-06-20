@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src
+END
+mnesia_checkpoint_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_checkpoint_sup.erl
+END
+mnesia_locker.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_locker.erl
+END
+mnesia_tm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_tm.erl
+END
+mnesia_controller.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_controller.erl
+END
+mnesia_late_loader.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_late_loader.erl
+END
+mnesia_registry.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_registry.erl
+END
+mnesia_sp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_sp.erl
+END
+mnesia_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_sup.erl
+END
+mnesia_dumper.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_dumper.erl
+END
+mnesia_schema.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_schema.erl
+END
+mnesia_backup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_backup.erl
+END
+mnesia_index.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_index.erl
+END
+mnesia_subscr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_subscr.erl
+END
+mnesia_frag_old_hash.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_frag_old_hash.erl
+END
+mnesia_checkpoint.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_checkpoint.erl
+END
+mnesia_event.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_event.erl
+END
+mnesia_monitor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_monitor.erl
+END
+mnesia_frag_hash.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_frag_hash.erl
+END
+mnesia_kernel_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_kernel_sup.erl
+END
+mnesia_bup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_bup.erl
+END
+mnesia_snmp_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_snmp_sup.erl
+END
+mnesia_text.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_text.erl
+END
+mnesia.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia.erl
+END
+mnesia.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia.hrl
+END
+mnesia_frag.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_frag.erl
+END
+mnesia_loader.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_loader.erl
+END
+mnesia_log.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_log.erl
+END
+mnesia_recover.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_recover.erl
+END
+mnesia_snmp_hook.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_snmp_hook.erl
+END
+mnesia_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/src/mnesia_lib.erl
+END

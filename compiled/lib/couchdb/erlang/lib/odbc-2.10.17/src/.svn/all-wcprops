@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/odbc-2.10.17/src
+END
+odbc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/odbc-2.10.17/src/odbc_sup.erl
+END
+odbc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/odbc-2.10.17/src/odbc.erl
+END
+odbc_app.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/odbc-2.10.17/src/odbc_app.erl
+END
+odbc_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/odbc-2.10.17/src/odbc_internal.hrl
+END

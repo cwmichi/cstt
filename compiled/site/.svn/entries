@@ -1,0 +1,53 @@
+10
+
+dir
+28
+https://cwserver12.cordaware30.local:8443/svn/cstt/compiled/site
+https://cwserver12.cordaware30.local:8443/svn/cstt
+
+
+
+2014-04-08T12:49:23.377119Z
+26
+michael.scharrer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b57cd783-46cb-8047-b617-7846a598c2b5
+
+
+
+
+
+
+0
+
+.prototypes
+dir
+
+ebin
+dir
+
+include
+dir
+
+src
+dir
+
+static
+dir
+
+templates
+dir
+

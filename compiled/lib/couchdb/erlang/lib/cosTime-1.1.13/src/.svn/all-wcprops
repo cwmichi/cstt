@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src
+END
+CosTime_TIO.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TIO.erl
+END
+CosTime_TIO_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TIO_impl.erl
+END
+cosTimeApp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/cosTimeApp.hrl
+END
+TimeBase_UtcT.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/TimeBase_UtcT.erl
+END
+CosTime_TIO.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TIO.hrl
+END
+CosTime.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime.hrl
+END
+CosTimerEvent_TimerEventT.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventT.erl
+END
+CosTime_TimeService.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TimeService.erl
+END
+CosTimerEvent_TimerEventService.erl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventService.erl
+END
+CosTimerEvent.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent.hrl
+END
+CosTime_TimeService.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TimeService.hrl
+END
+CosTimerEvent_TimerEventService.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventService.hrl
+END
+TimeBase.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/TimeBase.hrl
+END
+CosTime_UTO.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_UTO.erl
+END
+CosTime.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime.idl
+END
+oe_TimeBase.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_TimeBase.erl
+END
+CosTime_UTO.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_UTO.hrl
+END
+oe_TimeBase.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_TimeBase.hrl
+END
+oe_CosTime.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_CosTime.erl
+END
+CosTimerEvent.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent.idl
+END
+TimeBase_IntervalT.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/TimeBase_IntervalT.erl
+END
+oe_CosTime.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_CosTime.hrl
+END
+TimeBase.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/TimeBase.idl
+END
+CosTimerEvent_TimerEventHandler.erl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventHandler.erl
+END
+oe_CosTimerEvent.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_CosTimerEvent.erl
+END
+cosTime.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/cosTime.erl
+END
+CosTimerEvent_TimerEventHandler.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventHandler.hrl
+END
+oe_CosTimerEvent.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/oe_CosTimerEvent.hrl
+END
+CosTime_TimeUnavailable.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TimeUnavailable.erl
+END
+CosTime_UTO_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_UTO_impl.erl
+END
+CosTime_TimeService_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTime_TimeService_impl.erl
+END
+CosTimerEvent_TimerEventService_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventService_impl.erl
+END
+CosTimerEvent_TimerEventHandler_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTime-1.1.13/src/CosTimerEvent_TimerEventHandler_impl.erl
+END

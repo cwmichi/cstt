@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin
+END
+xmerl_b64Bin.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_b64Bin.beam
+END
+xmerl_xpath_parse.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xpath_parse.beam
+END
+xmerl_sax_parser_utf16be.beam
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser_utf16be.beam
+END
+xmerl_xpath_pred.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xpath_pred.beam
+END
+xmerl_uri.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_uri.beam
+END
+xmerl_xsd.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xsd.beam
+END
+xmerl_scan.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_scan.beam
+END
+xmerl_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_lib.beam
+END
+xmerl_xs.beam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xs.beam
+END
+xmerl_sax_parser_utf16le.beam
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser_utf16le.beam
+END
+xmerl_eventp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_eventp.beam
+END
+xmerl_validate.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_validate.beam
+END
+xmerl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl.beam
+END
+xmerl_otpsgml.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_otpsgml.beam
+END
+xmerl_sax_parser.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser.beam
+END
+xmerl_xlate.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xlate.beam
+END
+xmerl_sgml.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sgml.beam
+END
+xmerl.appup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl.appup
+END
+xmerl_text.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_text.beam
+END
+xmerl_b64Bin_scan.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_b64Bin_scan.beam
+END
+xmerl_html.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_html.beam
+END
+xmerl_sax_parser_list.beam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser_list.beam
+END
+xmerl_xpath_scan.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xpath_scan.beam
+END
+xmerl_ucs.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_ucs.beam
+END
+xmerl_xpath_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xpath_lib.beam
+END
+xmerl_xpath.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xpath.beam
+END
+xmerl_sax_parser_utf8.beam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser_utf8.beam
+END
+xmerl_simple.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_simple.beam
+END
+xmerl_xsd_type.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xsd_type.beam
+END
+xmerl_sax_parser_latin1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_parser_latin1.beam
+END
+xmerl_xml.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_xml.beam
+END
+xmerl.app
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl.app
+END
+xmerl_sax_old_dom.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_old_dom.beam
+END
+xmerl_sax_simple_dom.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_sax_simple_dom.beam
+END
+xmerl_regexp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/xmerl-1.3.4/ebin/xmerl_regexp.beam
+END

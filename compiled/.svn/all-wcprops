@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/cstt/!svn/ver/18/compiled
+END
+do-plugins.escript
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/cstt/!svn/ver/18/compiled/do-plugins.escript
+END
+plugins.config
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cstt/!svn/ver/18/compiled/plugins.config
+END
+rebar
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/cstt/!svn/ver/18/compiled/rebar
+END
+rebar.config
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cstt/!svn/ver/18/compiled/rebar.config
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/cstt/!svn/ver/18/compiled/Makefile
+END
+Install
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/cstt/!svn/ver/18/compiled/Install
+END
+BuildInfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cstt/!svn/ver/18/compiled/BuildInfo.txt
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/cstt/!svn/ver/24/compiled/.DS_Store
+END

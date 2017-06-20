@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication
+END
+replicator.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication/replicator.txt
+END
+conflicts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication/conflicts.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication/index.txt
+END
+protocol.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication/protocol.txt
+END
+intro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/replication/intro.txt
+END

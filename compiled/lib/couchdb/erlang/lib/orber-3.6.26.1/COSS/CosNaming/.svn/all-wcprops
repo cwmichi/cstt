@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming
+END
+CosNaming.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming.hrl
+END
+CosNaming_NamingContextExt_InvalidAddress.erl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContextExt_InvalidAddress.erl
+END
+cos_naming.idl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/cos_naming.idl
+END
+CosNaming_BindingList.erl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_BindingList.erl
+END
+cos_naming_ext.idl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/cos_naming_ext.idl
+END
+CosNaming_Binding.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_Binding.erl
+END
+CosNaming_NamingContextExt_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContextExt_impl.erl
+END
+lname_component.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/lname_component.erl
+END
+CosNaming_NamingContext.erl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext.erl
+END
+CosNaming_NamingContext_NotFound.erl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext_NotFound.erl
+END
+lname.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/lname.erl
+END
+CosNaming_NamingContext.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext.hrl
+END
+CosNaming_NamingContext_InvalidName.erl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext_InvalidName.erl
+END
+lname.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/lname.hrl
+END
+CosNaming_Name.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_Name.erl
+END
+CosNaming_BindingIterator_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_BindingIterator_impl.erl
+END
+orber_cosnaming.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/orber_cosnaming.hrl
+END
+CosNaming_NameComponent.erl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NameComponent.erl
+END
+CosNaming_NamingContext_NotEmpty.erl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext_NotEmpty.erl
+END
+CosNaming_BindingIterator.erl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_BindingIterator.erl
+END
+CosNaming_NamingContext_CannotProceed.erl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext_CannotProceed.erl
+END
+CosNaming_BindingIterator.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_BindingIterator.hrl
+END
+oe_cos_naming.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/oe_cos_naming.erl
+END
+CosNaming_NamingContextExt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContextExt.erl
+END
+oe_cos_naming_ext.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/oe_cos_naming_ext.erl
+END
+oe_cos_naming.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/oe_cos_naming.hrl
+END
+CosNaming_NamingContextExt.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContextExt.hrl
+END
+CosNaming_NamingContext_AlreadyBound.erl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/CosNaming_NamingContext_AlreadyBound.erl
+END
+oe_cos_naming_ext.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/oe_cos_naming_ext.hrl
+END
+orber_cosnaming_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/COSS/CosNaming/orber_cosnaming_utils.erl
+END

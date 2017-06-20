@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/cstt/!svn/ver/24/compiled/bin
+END
+couch-config
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cstt/!svn/ver/18/compiled/bin/couch-config
+END
+dev
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/cstt/!svn/ver/18/compiled/bin/dev
+END
+couchjs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/cstt/!svn/ver/18/compiled/bin/couchjs
+END
+nitrogen
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cstt/!svn/ver/18/compiled/bin/nitrogen
+END
+couchdb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/cstt/!svn/ver/24/compiled/bin/couchdb
+END

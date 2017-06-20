@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/cstt/!svn/ver/18/compiled/log
+END
+run_erl.log
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cstt/!svn/ver/18/compiled/log/run_erl.log
+END
+erlang.log.1
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cstt/!svn/ver/18/compiled/log/erlang.log.1
+END
+sasl-error.log
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/cstt/!svn/ver/18/compiled/log/sasl-error.log
+END

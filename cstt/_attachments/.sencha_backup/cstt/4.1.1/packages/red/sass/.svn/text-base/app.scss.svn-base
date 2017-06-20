@@ -1,0 +1,7 @@
+$theme-name: 'red';
+
+// Windows Classic gray
+$base-color: #FFCC33;
+
+@import 'compass';
+@import 'ext4/default/all';

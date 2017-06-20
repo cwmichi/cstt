@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin
+END
+OTP-PUB-KEY.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/OTP-PUB-KEY.beam
+END
+PKCS-FRAME.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/PKCS-FRAME.beam
+END
+pubkey_pem.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_pem.beam
+END
+pubkey_ssh.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_ssh.beam
+END
+public_key.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/public_key.beam
+END
+pubkey_pbe.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_pbe.beam
+END
+public_key.appup
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/public_key.appup
+END
+pubkey_cert_records.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_cert_records.beam
+END
+pubkey_cert.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_cert.beam
+END
+public_key.app
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/public_key.app
+END
+pubkey_crl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/ebin/pubkey_crl.beam
+END

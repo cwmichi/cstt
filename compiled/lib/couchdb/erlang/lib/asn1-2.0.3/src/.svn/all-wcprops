@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src
+END
+asn1ct_check.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_check.erl
+END
+asn1ct_imm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_imm.erl
+END
+asn1ct_gen_per.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_gen_per.erl
+END
+asn1ct_table.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_table.erl
+END
+asn1ct_eval_ext.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_eval_ext.erl
+END
+asn1ct_gen.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_gen.erl
+END
+asn1ct_tok.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_tok.erl
+END
+asn1rt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1rt.erl
+END
+asn1ct_value.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_value.erl
+END
+asn1ct_rtt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_rtt.erl
+END
+asn1ct_parser2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_parser2.erl
+END
+asn1_records.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1_records.hrl
+END
+asn1ct_constructed_per.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_constructed_per.erl
+END
+asn1ct_func.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_func.erl
+END
+asn1rt_nif.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1rt_nif.erl
+END
+asn1ct_name.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_name.erl
+END
+asn1ct.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct.erl
+END
+asn1ct_constructed_ber_bin_v2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_constructed_ber_bin_v2.erl
+END
+asn1ct_pretty_format.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_pretty_format.erl
+END
+asn1.appup.src
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1.appup.src
+END
+asn1_db.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1_db.erl
+END
+asn1ct_gen_ber_bin_v2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1ct_gen_ber_bin_v2.erl
+END
+asn1.app.src
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/asn1-2.0.3/src/asn1.app.src
+END

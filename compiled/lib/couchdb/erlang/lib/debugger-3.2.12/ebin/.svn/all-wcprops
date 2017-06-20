@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin
+END
+dbg_wx_trace.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_trace.beam
+END
+dbg_ui_edit_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_edit_win.beam
+END
+dbg_ui_view.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_view.beam
+END
+dbg_wx_trace_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_trace_win.beam
+END
+dbg_iload.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_iload.beam
+END
+dbg_ui_settings.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_settings.beam
+END
+dbg_istk.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_istk.beam
+END
+dbg_ui_mon.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_mon.beam
+END
+dbg_wx_break.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_break.beam
+END
+dbg_iserver.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_iserver.beam
+END
+dbg_ui_filedialog_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_filedialog_win.beam
+END
+dbg_wx_code.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_code.beam
+END
+dbg_ui_mon_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_mon_win.beam
+END
+dbg_wx_break_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_break_win.beam
+END
+dbg_wx_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_win.beam
+END
+dbg_ui_winman.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_winman.beam
+END
+dbg_ieval.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ieval.beam
+END
+int.beam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/int.beam
+END
+dbg_wx_view.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_view.beam
+END
+dbg_wx_settings.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_settings.beam
+END
+dbg_debugged.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_debugged.beam
+END
+dbg_wx_filedialog_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_filedialog_win.beam
+END
+debugger.app
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/debugger.app
+END
+i.beam
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/i.beam
+END
+dbg_wx_winman.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_winman.beam
+END
+dbg_wx_mon.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_mon.beam
+END
+dbg_wx_mon_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_mon_win.beam
+END
+debugger.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/debugger.beam
+END
+dbg_ui_interpret.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_interpret.beam
+END
+dbg_idb.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_idb.beam
+END
+dbg_ui_trace.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_trace.beam
+END
+debugger.appup
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/debugger.appup
+END
+dbg_ui_trace_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_trace_win.beam
+END
+dbg_ui_break.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_break.beam
+END
+dbg_wx_src_view.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_src_view.beam
+END
+dbg_icmd.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_icmd.beam
+END
+dbg_ui_break_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_break_win.beam
+END
+dbg_ui_win.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_win.beam
+END
+dbg_wx_interpret.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_wx_interpret.beam
+END
+dbg_ui_edit.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/ebin/dbg_ui_edit.beam
+END

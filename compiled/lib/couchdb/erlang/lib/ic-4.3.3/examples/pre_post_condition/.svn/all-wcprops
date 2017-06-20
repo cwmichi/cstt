@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/examples/pre_post_condition
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/examples/pre_post_condition/ReadMe.txt
+END
+ex.idl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/examples/pre_post_condition/ex.idl
+END
+m_i_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/examples/pre_post_condition/m_i_impl.erl
+END
+tracer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/examples/pre_post_condition/tracer.erl
+END

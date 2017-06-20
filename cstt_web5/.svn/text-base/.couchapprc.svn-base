@@ -1,0 +1,22 @@
+{
+  "env" : {
+    "local" : {
+      "db" : "http://localhost:5984/tickets"
+    },
+    "server2008" : {
+        "db" : "http://server2008:5984/tickets"
+    },    
+    "couchdb1" : {
+        "db" : "http://192.168.10.11:5984/tickets"
+    },
+     "schulung1" : {
+        "db" : "http://schulung1:8091/couchBase/tickets"
+    },
+ "couchbase" : {
+        "db" : "http://server2008:8091/couchBase/tickets"
+    },
+     "buben" : {
+        "db" : "http://cwserver22:5984/test_tickets"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src
+END
+xref_base.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_base.erl
+END
+cover.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/cover.erl
+END
+xref_parser.yrl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_parser.yrl
+END
+tags.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/tags.erl
+END
+xref_scanner.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_scanner.erl
+END
+xref.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref.erl
+END
+cprof.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/cprof.erl
+END
+lcnt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/lcnt.erl
+END
+eprof.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/eprof.erl
+END
+xref.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref.hrl
+END
+fprof.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/fprof.erl
+END
+xref_compiler.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_compiler.erl
+END
+xref_parser.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_parser.erl
+END
+instrument.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/instrument.erl
+END
+xref_reader.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_reader.erl
+END
+cover_web.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/cover_web.erl
+END
+xref_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/xref_utils.erl
+END
+make.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/src/make.erl
+END

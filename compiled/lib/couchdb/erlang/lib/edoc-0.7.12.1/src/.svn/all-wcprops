@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src
+END
+edoc_doclet.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_doclet.erl
+END
+edoc_types.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_types.hrl
+END
+edoc_doclet.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_doclet.hrl
+END
+edoc_scanner.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_scanner.erl
+END
+edoc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc.erl
+END
+edoc_macros.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_macros.erl
+END
+edoc_extract.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_extract.erl
+END
+edoc.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc.hrl
+END
+edoc_data.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_data.erl
+END
+edoc_layout.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_layout.erl
+END
+edoc_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_lib.erl
+END
+edoc_wiki.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_wiki.erl
+END
+edoc_parser.yrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_parser.yrl
+END
+edoc_run.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_run.erl
+END
+edoc_report.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_report.erl
+END
+edoc_tags.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_tags.erl
+END
+edoc_parser.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_parser.erl
+END
+otpsgml_layout.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/otpsgml_layout.erl
+END
+edoc_refs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_refs.erl
+END
+edoc_specs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_specs.erl
+END
+edoc_types.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/src/edoc_types.erl
+END

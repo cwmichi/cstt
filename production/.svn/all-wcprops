@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/cstt/!svn/ver/1/production
+END
+.couchapprc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cstt/!svn/ver/1/production/.couchapprc
+END
+.couchappignore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cstt/!svn/ver/1/production/.couchappignore
+END
+language
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/cstt/!svn/ver/1/production/language
+END
+_id
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/cstt/!svn/ver/12/production/_id
+END
+rewrites.json
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cstt/!svn/ver/1/production/rewrites.json
+END

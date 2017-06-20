@@ -1,0 +1,59 @@
+10
+
+dir
+18
+https://cwserver12.cordaware30.local:8443/svn/cstt/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/priv
+https://cwserver12.cordaware30.local:8443/svn/cstt
+
+
+
+2014-01-23T13:33:32.423304Z
+18
+michael.scharrer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b57cd783-46cb-8047-b617-7846a598c2b5
+
+
+
+
+
+
+0
+
+bin
+dir
+
+css
+dir
+
+dtd
+dir
+
+dtd_html_entities
+dir
+
+dtd_man_entities
+dir
+
+images
+dir
+
+js
+dir
+
+xsl
+dir
+

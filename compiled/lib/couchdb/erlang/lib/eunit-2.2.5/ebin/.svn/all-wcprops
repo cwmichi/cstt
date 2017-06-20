@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin
+END
+eunit_autoexport.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_autoexport.beam
+END
+eunit_server.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_server.beam
+END
+eunit_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_lib.beam
+END
+eunit_proc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_proc.beam
+END
+eunit_tests.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_tests.beam
+END
+eunit_listener.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_listener.beam
+END
+eunit_serial.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_serial.beam
+END
+eunit.beam
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit.beam
+END
+eunit_test.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_test.beam
+END
+eunit.appup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit.appup
+END
+eunit_tty.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_tty.beam
+END
+eunit.app
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit.app
+END
+eunit_surefire.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_surefire.beam
+END
+eunit_data.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_data.beam
+END
+eunit_striptests.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/ebin/eunit_striptests.beam
+END

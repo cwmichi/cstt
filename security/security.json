@@ -1,0 +1,25 @@
+{
+    "admins": {
+        "names": [
+            "admin",
+            "michael.scharrer"
+        ],
+        "roles": []
+    },
+    "members": {
+        "names": [
+        	"valeri.balachnin",
+        	"markus.schlede",
+        	"kilian.zenger",
+        	"michael.stiglmayr",
+        	"bernhard.haertl",
+        	"ilja.eichler",
+        	"oliver.bollmann",        	
+        	"benjamin.spaeth",
+            "simon.heller",
+            "giovanni.terlizzi",
+            "benedikt.weinberger"
+        ],
+        "roles": []
+    }
+}

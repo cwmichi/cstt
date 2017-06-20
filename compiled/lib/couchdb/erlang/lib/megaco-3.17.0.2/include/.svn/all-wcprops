@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include
+END
+megaco_message_prev3c.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_prev3c.hrl
+END
+megaco.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco.hrl
+END
+megaco_sdp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_sdp.hrl
+END
+megaco_message_v1.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_v1.hrl
+END
+megaco_message_v2.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_v2.hrl
+END
+megaco_message_v3.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_v3.hrl
+END
+megaco_message_prev3a.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_prev3a.hrl
+END
+megaco_message_prev3b.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/include/megaco_message_prev3b.hrl
+END

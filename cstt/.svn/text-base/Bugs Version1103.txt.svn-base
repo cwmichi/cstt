@@ -1,0 +1,12 @@
+﻿FIXED: - Version löschen -> DELETE wegen localhost - Tippfehler bei destroy
+FIXED: Kunden editieren -> Support Datum falsch
+FIXED -> Current Tickets -> Projektstatus
+FIXED: -> Linke Seite aktuelle Tickets von heute
+FIXED -> Mailversand
+FIXED -> Dateianhang -> scrollbars
+FIXED-> Neues Ticket HTMLEditor -> Layout
+KNOWN BUG -> store defined with no model -> Tree store cstt do Layout()
+- Version zum Kunden anlegen
+FIXED -> New Ticket Layout Probleme
+FIXED -> Upload von Dateianhängen bei einem neuen Ticket
+Login!!!!

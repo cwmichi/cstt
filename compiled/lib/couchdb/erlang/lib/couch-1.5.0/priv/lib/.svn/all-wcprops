@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch-1.5.0/priv/lib
+END
+couch_ejson_compare.la
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch-1.5.0/priv/lib/couch_ejson_compare.la
+END
+couch_icu_driver.la
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch-1.5.0/priv/lib/couch_icu_driver.la
+END
+couch_ejson_compare.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch-1.5.0/priv/lib/couch_ejson_compare.so
+END
+couch_icu_driver.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch-1.5.0/priv/lib/couch_icu_driver.so
+END

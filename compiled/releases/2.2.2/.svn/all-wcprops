@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2
+END
+start_clean.boot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/start_clean.boot
+END
+nitrogen.rel
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/nitrogen.rel
+END
+nitrogen.boot
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/nitrogen.boot
+END
+start_clean.rel
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/start_clean.rel
+END
+start_clean.script
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/start_clean.script
+END
+nitrogen.script
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cstt/!svn/ver/18/compiled/releases/2.2.2/nitrogen.script
+END

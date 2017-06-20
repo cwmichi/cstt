@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src
+END
+dtls_handshake.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_handshake.erl
+END
+ssl_v2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_v2.erl
+END
+ssl_v3.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_v3.erl
+END
+dtls_handshake.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_handshake.hrl
+END
+ssl_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_internal.hrl
+END
+tls_record.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_record.erl
+END
+dtls.erl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls.erl
+END
+tls_record.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_record.hrl
+END
+ssl_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_sup.erl
+END
+ssl_cipher.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_cipher.erl
+END
+ssl_cipher.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_cipher.hrl
+END
+tls_connection.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_connection.erl
+END
+dtls_v1.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_v1.erl
+END
+ssl_session.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_session.erl
+END
+ssl_certificate.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_certificate.erl
+END
+ssl_record.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_record.erl
+END
+ssl_session_cache.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_session_cache.erl
+END
+ssl_record.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_record.hrl
+END
+ssl_alert.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_alert.erl
+END
+ssl_alert.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_alert.hrl
+END
+ssl_tls_dist_proxy.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_tls_dist_proxy.erl
+END
+ssl_app.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_app.erl
+END
+tls_handshake.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_handshake.erl
+END
+inet_tls_dist.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/inet_tls_dist.erl
+END
+ssl_srp_primes.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_srp_primes.erl
+END
+tls_handshake.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_handshake.hrl
+END
+dtls_record.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_record.erl
+END
+ssl_manager.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_manager.erl
+END
+tls.erl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls.erl
+END
+dtls_record.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_record.hrl
+END
+tls_v1.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/tls_v1.erl
+END
+ssl_connection_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_connection_sup.erl
+END
+ssl_pkix_db.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_pkix_db.erl
+END
+ssl_session_cache_api.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_session_cache_api.erl
+END
+ssl_srp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_srp.hrl
+END
+ssl_handshake.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_handshake.erl
+END
+dtls_connection.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/dtls_connection.erl
+END
+ssl_socket.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_socket.erl
+END
+ssl_handshake.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_handshake.hrl
+END
+ssl_dist_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl_dist_sup.erl
+END
+ssl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ssl-5.3.1/src/ssl.erl
+END

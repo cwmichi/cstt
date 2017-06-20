@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin
+END
+CosTransactions_Control.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Control.beam
+END
+CosTransactions_NoTransaction.beam
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_NoTransaction.beam
+END
+CosTransactions_HeuristicHazard.beam
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_HeuristicHazard.beam
+END
+CosTransactions_RecoveryCoordinator.beam
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_RecoveryCoordinator.beam
+END
+CosTransactions_Terminator_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Terminator_impl.beam
+END
+CosTransactions_WrongTransaction.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_WrongTransaction.beam
+END
+CosTransactions_SynchronizationUnavailable.beam
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_SynchronizationUnavailable.beam
+END
+cosTransactions.appup
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/cosTransactions.appup
+END
+oe_CosTransactions.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/oe_CosTransactions.beam
+END
+CosTransactions_Resource.beam
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Resource.beam
+END
+ETraP_Server.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/ETraP_Server.beam
+END
+CosTransactions_TransactionFactory.beam
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_TransactionFactory.beam
+END
+ETraP_Server_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/ETraP_Server_impl.beam
+END
+CosTransactions_Inactive.beam
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Inactive.beam
+END
+CosTransactions_NotSubtransaction.beam
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_NotSubtransaction.beam
+END
+CosTransactions_Coordinator.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Coordinator.beam
+END
+CosTransactions_NotPrepared.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_NotPrepared.beam
+END
+CosTransactions_Terminator.beam
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Terminator.beam
+END
+etrap_logmgr.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/etrap_logmgr.beam
+END
+cosTransactions.beam
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/cosTransactions.beam
+END
+CosTransactions_otid_t.beam
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_otid_t.beam
+END
+ETraP_Common.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/ETraP_Common.beam
+END
+CosTransactions_HeuristicMixed.beam
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_HeuristicMixed.beam
+END
+CosTransactions_TransactionFactory_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_TransactionFactory_impl.beam
+END
+cosTransactions.app
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/cosTransactions.app
+END
+CosTransactions_Unavailable.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_Unavailable.beam
+END
+CosTransactions_HeuristicRollback.beam
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_HeuristicRollback.beam
+END
+CosTransactions_SubtransactionAwareResource.beam
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_SubtransactionAwareResource.beam
+END
+CosTransactions_InvalidControl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_InvalidControl.beam
+END
+CosTransactions_PropagationContext.beam
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_PropagationContext.beam
+END
+CosTransactions_TransIdentity.beam
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_TransIdentity.beam
+END
+CosTransactions_HeuristicCommit.beam
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_HeuristicCommit.beam
+END
+CosTransactions_SubtransactionsUnavailable.beam
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosTransactions-1.2.13/ebin/CosTransactions_SubtransactionsUnavailable.beam
+END

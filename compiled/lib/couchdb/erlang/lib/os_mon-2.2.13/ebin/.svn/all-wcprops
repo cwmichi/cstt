@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin
+END
+os_mon_sysinfo.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_mon_sysinfo.beam
+END
+memsup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/memsup.beam
+END
+os_mon.app
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_mon.app
+END
+os_mon_mib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_mon_mib.beam
+END
+cpu_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/cpu_sup.beam
+END
+os_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_sup.beam
+END
+disksup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/disksup.beam
+END
+os_mon.beam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_mon.beam
+END
+nteventlog.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/nteventlog.beam
+END
+os_mon.appup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/os_mon-2.2.13/ebin/os_mon.appup
+END

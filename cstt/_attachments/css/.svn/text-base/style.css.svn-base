@@ -1,0 +1,191 @@
+   .accept {
+        background-image:url(../images/icons/accept.png) !important;        
+    }
+    
+    .status-valid {
+          background-image:url(../images/icons/accept.png);
+          padding-left: 25px !important;
+          background-repeat:no-repeat;
+    }
+	 .settings {
+        background-image:url(../images/icons/folder_settings.png) !important;
+    }
+.house{
+        background-image:url(../images/icons/house.png) !important;
+    }
+    .comment {
+        background-image:url(../images/icons/comment.png) !important;
+    }
+    .comments {
+        background-image:url(../images/icons/comments.png) !important;
+    }
+    .remove {
+        background-image:url(../images/icons/delete.png) !important;
+    }
+    .add {
+        background-image:url(../images/icons/add.png) !important;
+    }
+    .database_go {
+        background-image:url(../images/icons/database_go.png) !important;
+    }
+    .database_edit {
+        background-image:url(../images/icons/database_edit.png) !important;
+    }
+    .calendar {
+        background-image:url(../images/icons/calendar.png) !important;
+    }
+    .calendar_add {
+        background-image:url(../images/icons/calendar_add.png) !important;
+    }
+    .calendar_edit {
+        background-image:url(../images/icons/calendar_edit.png) !important;
+    }
+    .database_table {
+        background-image:url(../images/icons/database_table.png) !important;
+    }
+    .database_add {
+        background-image:url(../images/icons/database_add.png) !important;
+    }
+	.report {
+		background-image:url(../images/icons/report.png) !important;
+	}
+	.report_red {
+		background-image:url(../images/icons/report_red.png) !important;
+	}
+	.report_add {
+		background-image:url(../images/icons/report_add.png) !important;
+	}
+	.group {
+		background-image:url(../images/icons/group.png) !important;
+	}
+    .group_add {
+		background-image:url(../images/icons/group_add.png) !important;
+	}    
+    .cross {
+	   background-image:url(../images/icons/cross.png) !important; 
+    }
+    .menu_show {
+         background-image:url(../images/icons/menu-show.gif) !important; 
+    }
+    .print {
+         background-image:url(../images/icons/print.png) !important; 
+    }
+    .search {
+         background-image:url(../images/icons/search.png) !important; 
+    }  
+    .user {
+         background-image:url(../images/icons/user.png) !important; 
+    } 
+    .user_add {
+         background-image:url(../images/icons/user_add.png) !important; 
+    }    
+    .user_comment {
+         background-image:url(../images/icons/user_comment.png) !important; 
+    }    
+    .user_delete {
+         background-image:url(../images/icons/user_comment.png) !important; 
+    }    
+    .user_edit {
+         background-image:url(../images/icons/user_edit.png) !important; 
+    }    
+    .user_go {
+         background-image:url(../images/icons/user_go.png) !important; 
+    } 
+    .user_suit {
+         background-image:url(../images/icons/user_suit.png) !important; 
+    } 
+    .search {
+         background-image:url(../images/icons/search.png) !important; 
+    }  
+    .lock {
+         background-image:url(../images/icons/lock.png) !important; 
+    }   
+    .arrow_redo {
+         background-image:url(../images/icons/arrow_redo.png) !important; 
+    }  
+    .basket_go {
+         background-image:url(../images/icons/basket_go.png) !important; 
+    }   
+    .bullet_wrench {
+         background-image:url(../images/icons/bullet_wrench.png) !important; 
+    }  
+    .chart_pie {
+         background-image:url(../images/icons/chart_pie.png) !important; 
+    }   
+    .chart_bar {
+         background-image:url(../images/icons/chart_bar.png) !important; 
+    }  
+    .flag_green {
+         background-image:url(../images/icons/flag_green.png) !important; 
+    }   
+    .keyboard {
+         background-image:url(../images/icons/keyboard.png) !important; 
+    }
+    .page_white_text {
+         background-image:url(../images/icons/page_white_text.png) !important; 
+    }
+    .application_key {
+         background-image:url(../images/icons/application_key.png) !important; 
+    }
+    .picture_save {
+         background-image:url(../images/icons/picture_save.png) !important; 
+    }.images {
+         background-image:url(../images/icons/images.png) !important; 
+    }
+    .knowledge_base {
+         background-image:url(../images/icons/knowledge_base.png) !important; 
+    }
+    .folder {
+         background-image:url(../images/icons/folder.png) !important; 
+    }
+    .remote {
+         background-image:url(../images/icons/remote.png) !important; 
+    }
+     .go {
+         background-image:url(../images/icons/bullet_go.png) !important; 
+    }
+     .textfield {
+         background-image:url(../images/icons/textfield.png) !important; 
+    }
+     .settings_ext {
+        background-image:url(../images/icons/settings_16.png) !important;
+    }
+      .user_design_16 {
+        background-image:url(../images/icons/user_design_16.png) !important;
+    }
+      .user_design_32 {
+        background-image:url(../images/icons/user_design_32.png) !important;
+    }
+     .database_link {
+        background-image:url(../images/icons/database_link.png) !important;
+    }
+
+           
+#msg-div {
+    position:absolute;
+    left:35%;
+    top:10px;
+    width:300px;
+    z-index:20000;
+}
+#msg-div .msg {
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    background: #F6F6F6;
+    border: 2px solid #ccc;
+    margin-top: 2px;
+    padding: 10px 15px;
+    color: #555;
+}
+#msg-div .msg h3 {
+    margin: 0 0 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#msg-div .msg p {
+    margin: 0;
+}
+.cstt_contact_disabled .x-grid-cell{
+    background-color: #FF0000 !important;
+    color: #FFFFFF;
+}

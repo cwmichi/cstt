@@ -1,0 +1,88 @@
+[
+{
+  "from": "",
+  "to": "index.html",
+  "method": "GET"
+},
+{
+  "from": "",
+  "to": "../../",
+  "method": "POST"
+},
+{
+  "from": "favicon_green.ico",
+  "to": "favicon_green.ico"
+},
+{
+  "from": "index.html",
+  "to": "index.html"
+},
+{
+  "from": "app.js",
+  "to": "app.js"
+},
+{
+  "from": "all-classes.js",
+  "to": "all-classes.js"
+},
+{
+  "from": "vendor/*",
+  "to": "vendor/*"
+},
+{
+  "from": "app/*",
+  "to": "app/*"
+},
+{
+  "from": "ext/*",
+  "to": "ext/*"
+},
+{
+  "from": "css/*",
+  "to": "css/*"
+},
+{
+  "from": "resources/*",
+  "to": "resources/*"
+},
+{
+  "from": "packages/*",
+  "to": "packages/*"
+},
+{
+  "from": "pdf/*",
+  "to": "pdf/*"
+},
+{
+  "from": "style/*",
+  "to": "style/*"
+},
+{
+  "from": "_view/*",
+  "to": "_view/*"
+},
+{
+  "from": "_design/*",
+  "to": "../../_design/*"
+},
+{
+  "from": "_exportTickets",
+  "to": "../../_exportTickets"
+},
+{
+  "from": "js/*",
+  "to": "js/*"
+},
+{
+  "from": "json/*",
+  "to": "json/*"
+},
+{
+  "from": "images/*",
+  "to": "images/*"
+},
+{
+  "from": "*",
+  "to": "../../*"
+}
+]

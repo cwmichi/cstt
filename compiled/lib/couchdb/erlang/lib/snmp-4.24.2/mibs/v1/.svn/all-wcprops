@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/v1
+END
+RFC-1212.mib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/v1/RFC-1212.mib
+END
+RFC1155-SMI.mib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/v1/RFC1155-SMI.mib
+END
+RFC-1215.mib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/v1/RFC-1215.mib
+END
+OTP-SNMPEA-MIB.mib.v1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/v1/OTP-SNMPEA-MIB.mib.v1
+END

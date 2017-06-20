@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp
+END
+ftp_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp/ftp_sup.erl
+END
+ftp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp/ftp.erl
+END
+ftp_progress.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp/ftp_progress.erl
+END
+ftp_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp/ftp_internal.hrl
+END
+ftp_response.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/ftp/ftp_response.erl
+END

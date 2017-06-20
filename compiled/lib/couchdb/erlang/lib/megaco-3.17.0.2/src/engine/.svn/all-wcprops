@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine
+END
+megaco_erl_dist_encoder_mc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_erl_dist_encoder_mc.erl
+END
+megaco_messenger.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_messenger.erl
+END
+megaco_trans_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_trans_sup.erl
+END
+megaco_edist_compress.erl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_edist_compress.erl
+END
+megaco_filter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_filter.erl
+END
+megaco_message_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_message_internal.hrl
+END
+megaco_messenger_misc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_messenger_misc.erl
+END
+megaco_monitor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_monitor.erl
+END
+megaco_encoder.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_encoder.erl
+END
+megaco_misc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_misc_sup.erl
+END
+megaco_sdp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_sdp.erl
+END
+megaco_stats.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_stats.erl
+END
+megaco_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_config.erl
+END
+megaco_erl_dist_encoder.erl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_erl_dist_encoder.erl
+END
+megaco_timer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_timer.erl
+END
+megaco_config_misc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_config_misc.erl
+END
+megaco_transport.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_transport.erl
+END
+megaco_digit_map.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_digit_map.erl
+END
+megaco_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_sup.erl
+END
+megaco_trans_sender.erl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_trans_sender.erl
+END
+megaco_user_default.erl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/engine/megaco_user_default.erl
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cstt/!svn/ver/18/compiled/var/lib/couchdb
+END
+_users.couch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cstt/!svn/ver/18/compiled/var/lib/couchdb/_users.couch
+END
+_replicator.couch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cstt/!svn/ver/24/compiled/var/lib/couchdb/_replicator.couch
+END

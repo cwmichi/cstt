@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/cstt/!svn/ver/18/compiled/etc
+END
+vm.args
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/cstt/!svn/ver/18/compiled/etc/vm.args
+END
+sync.config
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cstt/!svn/ver/18/compiled/etc/sync.config
+END
+mochiweb.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cstt/!svn/ver/18/compiled/etc/mochiweb.config
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cstt/!svn/ver/18/compiled/etc/app.config
+END

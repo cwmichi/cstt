@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc
+END
+snmp_mini_mib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_mini_mib.erl
+END
+snmp_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_config.erl
+END
+snmp_log.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_log.erl
+END
+snmp_pdus.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_pdus.erl
+END
+snmp_conf.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_conf.erl
+END
+snmp_debug.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_debug.hrl
+END
+snmp_note_store.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_note_store.erl
+END
+snmp_verbosity.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_verbosity.erl
+END
+snmp_misc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_misc.erl
+END
+snmp_verbosity.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_verbosity.hrl
+END
+snmp_usm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/misc/snmp_usm.erl
+END

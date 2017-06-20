@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect
+END
+send_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/send_reg.c
+END
+ei_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/ei_connect.c
+END
+eirecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/eirecv.h
+END
+ei_resolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/ei_resolve.c
+END
+eisend.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/eisend.h
+END
+ei_connect_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/ei_connect_int.h
+END
+send_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/send_exit.c
+END
+ei_resolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/ei_resolve.h
+END
+send.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/send.c
+END
+eirecv.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/connect/eirecv.c
+END

@@ -1,0 +1,357 @@
+10
+
+dir
+28
+https://cwserver12.cordaware30.local:8443/svn/cstt/development/_attachments/ext/packages/ext-locale/overrides
+https://cwserver12.cordaware30.local:8443/svn/cstt
+delete
+
+
+2013-12-17T14:16:21.523463Z
+1
+michael.scharrer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b57cd783-46cb-8047-b617-7846a598c2b5
+
+af
+dir
+
+
+
+delete
+
+bg
+dir
+
+
+
+delete
+
+ca
+dir
+
+
+
+delete
+
+cs
+dir
+
+
+
+delete
+
+da
+dir
+
+
+
+delete
+
+de
+dir
+
+
+
+delete
+
+el_GR
+dir
+
+
+
+delete
+
+en
+dir
+
+
+
+delete
+
+en_AU
+dir
+
+
+
+delete
+
+en_GB
+dir
+
+
+
+delete
+
+es
+dir
+
+
+
+delete
+
+et
+dir
+
+
+
+delete
+
+fa
+dir
+
+
+
+delete
+
+fi
+dir
+
+
+
+delete
+
+fr
+dir
+
+
+
+delete
+
+fr_CA
+dir
+
+
+
+delete
+
+gr
+dir
+
+
+
+delete
+
+he
+dir
+
+
+
+delete
+
+hr
+dir
+
+
+
+delete
+
+hu
+dir
+
+
+
+delete
+
+id
+dir
+
+
+
+delete
+
+it
+dir
+
+
+
+delete
+
+ja
+dir
+
+
+
+delete
+
+ko
+dir
+
+
+
+delete
+
+lt
+dir
+
+
+
+delete
+
+lv
+dir
+
+
+
+delete
+
+mk
+dir
+
+
+
+delete
+
+nl
+dir
+
+
+
+delete
+
+no_NB
+dir
+
+
+
+delete
+
+no_NN
+dir
+
+
+
+delete
+
+pl
+dir
+
+
+
+delete
+
+pt
+dir
+
+
+
+delete
+
+pt_BR
+dir
+
+
+
+delete
+
+pt_PT
+dir
+
+
+
+delete
+
+ro
+dir
+
+
+
+delete
+
+ru
+dir
+
+
+
+delete
+
+sk
+dir
+
+
+
+delete
+
+sl
+dir
+
+
+
+delete
+
+sr
+dir
+
+
+
+delete
+
+sr_RS
+dir
+
+
+
+delete
+
+sv_SE
+dir
+
+
+
+delete
+
+th
+dir
+
+
+
+delete
+
+tr
+dir
+
+
+
+delete
+
+ukr
+dir
+
+
+
+delete
+
+vn
+dir
+
+
+
+delete
+
+zh_CN
+dir
+
+
+
+delete
+
+zh_TW
+dir
+
+
+
+delete
+

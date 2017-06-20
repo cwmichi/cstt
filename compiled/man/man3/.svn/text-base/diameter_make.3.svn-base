@@ -1,0 +1,66 @@
+.TH diameter_make 3 "diameter 1.4.3" "Ericsson AB" "Erlang Module Definition"
+.SH NAME
+diameter_make \- Diameter dictionary compilation.
+.SH DESCRIPTION
+.LP
+The function \fBcodec/2\fR\& is used to compile a diameter \fBdictionary file\fR\& into Erlang source\&. The resulting source implements the interface diameter required to encode and decode the dictionary\&'s messages and AVP\&'s\&.
+.LP
+The utility \fBdiameterc(1)\fR\& provides an alternate compilation interface\&.
+.SH EXPORTS
+.LP
+.B
+codec(Path::string(), [Opt]) -> ok | {error, Reason}
+.br
+.RS
+.LP
+Compile a single dictionary file to Erlang source\&. \fIOpt\fR\& can have the following types\&.
+.RS 2
+.TP 2
+.B
+\fI{include, string()}\fR\&:
+Prepend the specified directory to the code path\&. Use to point at beam files compiled from inherited dictionaries, \fI\fB@inherits\fR\&\fR\& in a dictionary file creating a beam dependency, not an erl/hrl dependency\&.
+.RS 2
+.LP
+Multiple \fIinclude\fR\& options can be specified\&.
+.RE
+.TP 2
+.B
+\fI{outdir, string()}\fR\&:
+Write generated source to the specified directory\&. Defaults to the current working directory\&.
+.TP 2
+.B
+\fI{name|prefix, string()}\fR\&:
+Transform the input dictionary before compilation, setting \fI\fB@name\fR\&\fR\& or \fI\fB@prefix\fR\&\fR\& to the specified string\&.
+.TP 2
+.B
+\fI{inherits, string()}\fR\&:
+Transform the input dictionary before compilation, appending \fI\fB@inherits\fR\&\fR\& of the specified string\&.
+.RS 2
+.LP
+Two forms of \fI@inherits\fR\& have special meaning:
+.RE
+.LP
+.nf
+
+{inherits, "-"}
+{inherits, "Prev/Mod"}
+
+.fi
+.RS 2
+.LP
+The first has the effect of clearing any previous inherits, the second of replacing a previous inherits of \fIPrev\fR\& to one of \fIMod\fR\&\&. This allows the semantics of the input dictionary to be changed without modifying the file itself\&.
+.RE
+.RS 2
+.LP
+Multiple \fIinherits\fR\& options can be specified\&.
+.RE
+.RE
+.RE
+.SH "BUGS"
+
+.LP
+All options are string-valued\&. In particular, it is not currently possible to specify an \fB@inherits\fR\& module as an atom(), or a path as an arbitrary \fBfile:name()\fR\&
+.SH "SEE ALSO"
+
+.LP
+\fBdiameterc(1)\fR\&, \fBdiameter_dict(4)\fR\&

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_replicator-0.1/include
+END
+couch_replicator_api_wrap.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_replicator-0.1/include/couch_replicator_api_wrap.hrl
+END
+couch_replicator.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_replicator-0.1/include/couch_replicator.hrl
+END
+couch_replicator_js_functions.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_replicator-0.1/include/couch_replicator_js_functions.hrl
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager
+END
+snmpm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm.erl
+END
+snmpm_net_if.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_net_if.erl
+END
+snmpm_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_internal.hrl
+END
+snmpm_mpd.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_mpd.erl
+END
+snmpm_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_config.erl
+END
+snmpm_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_server.erl
+END
+snmpm_conf.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_conf.erl
+END
+snmpm_net_if_mt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_net_if_mt.erl
+END
+snmpm_network_interface.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_network_interface.erl
+END
+snmpm_supervisor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_supervisor.erl
+END
+snmpm_user.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_user.erl
+END
+snmpm_user_default.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_user_default.erl
+END
+snmpm_network_interface_filter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_network_interface_filter.erl
+END
+snmpm_usm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_usm.erl
+END
+snmpm_server_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_server_sup.erl
+END
+snmpm_usm.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_usm.hrl
+END
+snmpm_user_old.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_user_old.erl
+END
+snmpm_net_if_filter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_net_if_filter.erl
+END
+snmpm_misc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_misc_sup.erl
+END
+snmpm_atl.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/src/manager/snmpm_atl.hrl
+END

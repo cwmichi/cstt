@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src
+END
+eunit_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_lib.erl
+END
+eunit_striptests.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_striptests.erl
+END
+eunit_data.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_data.erl
+END
+eunit_surefire.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_surefire.erl
+END
+eunit_tty.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_tty.erl
+END
+eunit_test.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_test.erl
+END
+eunit.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit.erl
+END
+eunit_autoexport.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_autoexport.erl
+END
+eunit_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_server.erl
+END
+eunit_serial.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_serial.erl
+END
+eunit_tests.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_tests.erl
+END
+eunit_proc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/eunit-2.2.5/src/eunit_proc.erl
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin
+END
+ibrowse_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_lib.beam
+END
+ibrowse.app
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse.app
+END
+ibrowse_http_client.beam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_http_client.beam
+END
+ibrowse_app.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_app.beam
+END
+ibrowse.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse.beam
+END
+ibrowse_lb.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_lb.beam
+END
+ibrowse_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_sup.beam
+END
+ibrowse_test.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse_test.beam
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_dbupdates-0.1/ebin
+END
+couch_dbupdates.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_dbupdates-0.1/ebin/couch_dbupdates.beam
+END
+couch_dbupdates_httpd.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_dbupdates-0.1/ebin/couch_dbupdates_httpd.beam
+END

@@ -1,0 +1,4 @@
+﻿- Fixed: Ein geschlossenes Ticket kann nicht erneut geschlossen werden
+- Logik geändert: Kontaktpersonen zu einem Kunden anlegen / Auswahl des Kunden bei der DropDown-Box
+- Neu: Tickets können jetzt zurückgestellt werden
+- Neu: CouchDB-View ../_view/ticketDeferred

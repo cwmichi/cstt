@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/examples/server_root/ssl
+END
+ssl_server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/examples/server_root/ssl/ssl_server.pem
+END
+ssl_client.pem
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/examples/server_root/ssl/ssl_client.pem
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32/atomic.h
+END
+spinlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32/spinlock.h
+END
+ethread.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32/ethread.h
+END
+rwlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32/rwlock.h
+END
+ethr_membar.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/include/internal/ppc32/ethr_membar.h
+END

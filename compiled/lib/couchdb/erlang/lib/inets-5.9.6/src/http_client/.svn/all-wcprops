@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client
+END
+httpc_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_internal.hrl
+END
+httpc_profile_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_profile_sup.erl
+END
+httpc_handler_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_handler_sup.erl
+END
+httpc_response.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_response.erl
+END
+httpc_handler.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_handler.erl
+END
+httpc_cookie.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_cookie.erl
+END
+httpc_manager.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_manager.erl
+END
+httpc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_sup.erl
+END
+httpc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc.erl
+END
+httpc_request.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_client/httpc_request.erl
+END

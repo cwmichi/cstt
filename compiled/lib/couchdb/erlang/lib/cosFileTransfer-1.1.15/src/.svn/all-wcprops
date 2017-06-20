@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src
+END
+CosFileTransfer.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer.hrl
+END
+CosFileTransfer_TransferException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_TransferException.erl
+END
+cosFileTransferApp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/cosFileTransferApp.erl
+END
+CosFileTransfer_FileNameList.erl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileNameList.erl
+END
+cosFileTransferApp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/cosFileTransferApp.hrl
+END
+CosFileTransfer_Directory.erl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_Directory.erl
+END
+CosFileTransfer_Directory.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_Directory.hrl
+END
+CosFileTransfer.idl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer.idl
+END
+CosFileTransfer_Directory_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_Directory_impl.erl
+END
+CosFileTransfer_FileIterator_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileIterator_impl.erl
+END
+CosFileTransfer_VirtualFileSystem.erl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_VirtualFileSystem.erl
+END
+oe_CosFileTransfer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/oe_CosFileTransfer.erl
+END
+CosFileTransfer_FileWrapper.erl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileWrapper.erl
+END
+CosFileTransfer_VirtualFileSystem.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_VirtualFileSystem.hrl
+END
+oe_CosFileTransfer.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/oe_CosFileTransfer.hrl
+END
+CosFileTransfer_ProtocolAddressList.erl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_ProtocolAddressList.erl
+END
+CosFileTransfer_FileList.erl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileList.erl
+END
+CosFileTransfer_File.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_File.erl
+END
+CosFileTransfer_IllegalOperationException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_IllegalOperationException.erl
+END
+CosFileTransfer_AccessLevel.erl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_AccessLevel.erl
+END
+CosFileTransfer_File.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_File.hrl
+END
+CosFileTransfer_File_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_File_impl.erl
+END
+CosFileTransfer_FileNotFoundException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileNotFoundException.erl
+END
+cosFileTransferNATIVE_file.erl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/cosFileTransferNATIVE_file.erl
+END
+CosFileTransfer_VirtualFileSystem_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_VirtualFileSystem_impl.erl
+END
+CosFileTransfer_FileIterator.erl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileIterator.erl
+END
+CosFileTransfer_VirtualFileSystem_ContentList.erl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_VirtualFileSystem_ContentList.erl
+END
+CosFileTransfer_FileIterator.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileIterator.hrl
+END
+CosFileTransfer_FileTransferSession.erl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileTransferSession.erl
+END
+CosFileTransfer_FileTransferSession.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileTransferSession.hrl
+END
+CosFileTransfer_FileTransferSession_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_FileTransferSession_impl.erl
+END
+CosFileTransfer_RequestFailureException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_RequestFailureException.erl
+END
+CosFileTransfer_CommandNotImplementedException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_CommandNotImplementedException.erl
+END
+CosFileTransfer_ProtocolSupport.erl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_ProtocolSupport.erl
+END
+CosFileTransfer_SessionException.erl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_SessionException.erl
+END
+CosFileTransfer_SupportedProtocolAddresses.erl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer_SupportedProtocolAddresses.erl
+END
+CosFileTransfer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/src/CosFileTransfer.erl
+END

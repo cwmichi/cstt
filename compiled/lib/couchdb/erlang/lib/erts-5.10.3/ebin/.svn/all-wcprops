@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin
+END
+prim_inet.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/prim_inet.beam
+END
+erl_prim_loader.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/erl_prim_loader.beam
+END
+otp_ring0.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/otp_ring0.beam
+END
+erlang.beam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/erlang.beam
+END
+zlib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/zlib.beam
+END
+prim_zip.beam
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/prim_zip.beam
+END
+prim_eval.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/prim_eval.beam
+END
+prim_file.beam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/prim_file.beam
+END
+erts_internal.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/erts_internal.beam
+END
+init.beam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/init.beam
+END
+erts.app
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erts-5.10.3/ebin/erts.app
+END

@@ -1,0 +1,96 @@
+[
+   {
+       "from": "",
+       "to": "index.html",
+       "method": "GET"
+   },
+   {
+       "from": "",
+       "to": "../../../cstt",
+       "method": "POST"
+   },
+   {
+       "from": "favicon_green.ico",
+       "to": "favicon_green.ico"
+   },
+   {
+       "from": "index.html",
+       "to": "index.html"
+   },
+      {
+       "from": "bootstrap.css",
+       "to": "bootstrap.css"
+   },
+   {
+       "from": "app.js",
+       "to": "app.js"
+   },
+   {
+       "from": "all-classes.js",
+       "to": "all-classes.js"
+   },
+   {
+       "from": "vendor/*",
+       "to": "vendor/*"
+   },
+   {
+       "from": "app/*",
+       "to": "app/*"
+   },
+   {
+       "from": "ext/*",
+       "to": "ext/*"
+   },
+   {
+       "from": "css/*",
+       "to": "css/*"
+   },
+   {
+       "from": "resources/*",
+       "to": "resources/*"
+   },
+   {
+       "from": "packages/*",
+       "to": "packages/*"
+   },
+   {
+       "from": "pdf/*",
+       "to": "pdf/*"
+   },
+   {
+       "from": "style/*",
+       "to": "style/*"
+   },
+   {
+       "from": "build/*",
+       "to": "build/*"
+   },
+   {
+       "from": "_view/*",
+       "to": "../../../cstt/_design/cstt/_view/*"
+   },
+   {
+       "from": "_design/*",
+       "to": "../../../cstt/_design/*"
+   },
+   {
+       "from": "_exportTickets",
+       "to": "../../../cstt/_exportTickets"
+   },
+   {
+       "from": "js/*",
+       "to": "js/*"
+   },
+   {
+       "from": "json/*",
+       "to": "json/*"
+   },
+   {
+       "from": "images/*",
+       "to": "images/*"
+   },
+   {
+       "from": "*",
+       "to": "../../../cstt/*"
+   }
+]

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/epmd
+END
+epmd_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/epmd/epmd_port.c
+END
+ei_epmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/epmd/ei_epmd.h
+END
+epmd_publish.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/epmd/epmd_publish.c
+END
+epmd_unpublish.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/epmd/epmd_unpublish.c
+END

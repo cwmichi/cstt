@@ -1,0 +1,4 @@
+﻿- Neu: Icons für Menü
+- Logik geändert: Tickets in den letzten 24 Stunden
+- Neu: Speichern der Ersteller / Bearbeiter User ID bei Kunden / Kontaktpersonen
+- Logik geändert: Suche in CouchDB nach Tickets (Ticket-Nummer, Kurzbeschreibung, nach Kunden, Beschreibung, Qualifizierte Lösung)

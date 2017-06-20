@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src
+END
+test_server_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_internal.hrl
+END
+test_server_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_sup.erl
+END
+test_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server.erl
+END
+test_server_node.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_node.erl
+END
+erl2html2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/erl2html2.erl
+END
+test_server_gl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_gl.erl
+END
+test_server_io.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_io.erl
+END
+test_server_ctrl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/test_server-3.6.3/src/test_server_ctrl.erl
+END

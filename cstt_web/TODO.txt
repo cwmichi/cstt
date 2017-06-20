@@ -1,0 +1,25 @@
+force Selection bei Kontaktaufnahme raus nehmen!!! - OK - changed!!!!
+
+
+Bug beim Ticket Actions View - Kommentare werden wegen status == '' aufgelistet. -- OK!!! fixed!!!
+
+
+Kundenuebersicht - Pilotsupport fehlt ---- OK!! fixed!!!
+Bug bei Kunden editieren - Pilotkunde + - gefixed!!!!
+
+Support bis und Support von wird nach JSOn Date umgewandelt!!!
+
+
+
+
+
+Tickets - Projektstatus tickets 3 tage lang auflisten
+
+for (var field in doc) {
+
+  emit(field, doc[field]);
+}
+
+
+
+Bug bei Support abgelaufen im IE - wenn man ein neues Ticket anlegt.

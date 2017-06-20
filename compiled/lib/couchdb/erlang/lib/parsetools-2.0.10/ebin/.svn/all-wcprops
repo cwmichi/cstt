@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin
+END
+leex.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/leex.beam
+END
+yecc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/yecc.beam
+END
+yeccparser.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/yeccparser.beam
+END
+yeccscan.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/yeccscan.beam
+END
+parsetools.appup
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/parsetools.appup
+END
+parsetools.app
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/parsetools-2.0.10/ebin/parsetools.app
+END

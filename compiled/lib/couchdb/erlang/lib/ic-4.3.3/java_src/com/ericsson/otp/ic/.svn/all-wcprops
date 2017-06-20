@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic
+END
+PortHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/PortHelper.java
+END
+PortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/PortHolder.java
+END
+Any.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Any.java
+END
+Holder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Holder.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Term.java
+END
+Pid.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Pid.java
+END
+FloatHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/FloatHolder.java
+END
+LongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/LongHolder.java
+END
+ShortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/ShortHolder.java
+END
+TypeCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/TypeCode.java
+END
+TCKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/TCKind.java
+END
+CharHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/CharHolder.java
+END
+Port.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Port.java
+END
+RefHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/RefHelper.java
+END
+RefHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/RefHolder.java
+END
+DoubleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/DoubleHolder.java
+END
+StringHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/StringHolder.java
+END
+IntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/IntHolder.java
+END
+AnyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/AnyHelper.java
+END
+TermHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/TermHelper.java
+END
+PidHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/PidHelper.java
+END
+AnyHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/AnyHolder.java
+END
+TermHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/TermHolder.java
+END
+PidHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/PidHolder.java
+END
+BooleanHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/BooleanHolder.java
+END
+ByteHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/ByteHolder.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Environment.java
+END
+Ref.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/ic-4.3.3/java_src/com/ericsson/otp/ic/Ref.java
+END

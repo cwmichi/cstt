@@ -1,0 +1,11 @@
+{
+    "admins": {
+        "names": [
+            "admin",
+            "michael.scharrer"
+        ],
+        "roles": [
+            "_admin"
+        ]
+    }
+}

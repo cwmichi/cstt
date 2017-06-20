@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src
+END
+wx.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wx.erl
+END
+wxe.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wxe.hrl
+END
+wx_object.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wx_object.erl
+END
+wxe_master.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wxe_master.erl
+END
+wxe_util.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wxe_util.erl
+END
+wxe_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/wx-1.1/src/wxe_server.erl
+END

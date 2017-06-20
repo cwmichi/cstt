@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server
+END
+mod_auth_plain.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth_plain.erl
+END
+mod_dir.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_dir.erl
+END
+mod_alias.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_alias.erl
+END
+httpd_esi.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_esi.erl
+END
+mod_get.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_get.erl
+END
+httpd.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd.erl
+END
+mod_security.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_security.erl
+END
+httpd.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd.hrl
+END
+httpd_log.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_log.erl
+END
+mod_auth_mnesia.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth_mnesia.erl
+END
+httpd_cgi.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_cgi.erl
+END
+mod_security_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_security_server.erl
+END
+httpd_conf.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_conf.erl
+END
+httpd_instance_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_instance_sup.erl
+END
+httpd_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_sup.erl
+END
+mod_browser.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_browser.erl
+END
+mod_include.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_include.erl
+END
+httpd_request.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_request.erl
+END
+httpd_acceptor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_acceptor.erl
+END
+httpd_socket.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_socket.erl
+END
+httpd_request_handler.erl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_request_handler.erl
+END
+mod_auth_dets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth_dets.erl
+END
+httpd_script_env.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_script_env.erl
+END
+httpd_acceptor_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_acceptor_sup.erl
+END
+mod_auth_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth_server.erl
+END
+mod_head.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_head.erl
+END
+httpd_misc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_misc_sup.erl
+END
+mod_esi.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_esi.erl
+END
+httpd_file.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_file.erl
+END
+mod_disk_log.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_disk_log.erl
+END
+mod_responsecontrol.erl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_responsecontrol.erl
+END
+mod_actions.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_actions.erl
+END
+mod_range.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_range.erl
+END
+httpd_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_internal.hrl
+END
+httpd_response.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_response.erl
+END
+httpd_util.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_util.erl
+END
+mod_auth.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth.erl
+END
+httpd_example.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_example.erl
+END
+mod_log.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_log.erl
+END
+mod_auth.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_auth.hrl
+END
+mod_cgi.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_cgi.erl
+END
+mod_trace.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_trace.erl
+END
+httpd_manager.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/httpd_manager.erl
+END
+mod_htaccess.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/inets-5.9.6/src/http_server/mod_htaccess.erl
+END

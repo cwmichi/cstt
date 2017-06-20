@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/lib/internal
+END
+liberts_internal_r.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/lib/internal/liberts_internal_r.a
+END
+libethread.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/lib/internal/libethread.a
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/lib/internal/README
+END
+liberts_internal.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/erts-5.10.3/lib/internal/liberts_internal.a
+END

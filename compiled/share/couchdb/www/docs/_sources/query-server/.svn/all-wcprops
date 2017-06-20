@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/query-server
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/query-server/index.txt
+END
+protocol.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/query-server/protocol.txt
+END
+erlang.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/query-server/erlang.txt
+END
+javascript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/query-server/javascript.txt
+END

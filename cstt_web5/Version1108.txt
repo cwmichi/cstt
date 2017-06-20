@@ -1,0 +1,7 @@
+﻿- Fixed: Versionsübersicht zum Kunden
+- Verbesserung Layout bei der Anzeige eines Ticket
+- Verbesserung HTML-Editor beim Anlegen eines neuen Ticket
+- Verbesserung Tickets in den letzten 24 Stunden für Browser Safari
+- Grid Scolling Problem - Known Bug in ExtJS 4.0.7 http://www.sencha.com/forum/showthread.php?137993-4.0.2-only-layout-fit-grid-scrollbar-when-used-does-not-scroll-content/page4
+mit ExtJS Version 4.0.1 tritt bei mir das Problem nicht mehr auf!
+- Neu: eigener Search Store in ExtJS

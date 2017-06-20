@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snappy-1.0.5/priv
+END
+snappy_nif.la
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snappy-1.0.5/priv/snappy_nif.la
+END
+snappy_nif.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snappy-1.0.5/priv/snappy_nif.so
+END

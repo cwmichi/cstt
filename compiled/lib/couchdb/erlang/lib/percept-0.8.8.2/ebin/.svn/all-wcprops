@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin
+END
+egd_font.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/egd_font.beam
+END
+egd_png.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/egd_png.beam
+END
+percept.appup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept.appup
+END
+percept_db.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept_db.beam
+END
+egd_primitives.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/egd_primitives.beam
+END
+percept.app
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept.app
+END
+percept_html.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept_html.beam
+END
+egd_render.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/egd_render.beam
+END
+percept.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept.beam
+END
+egd.beam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/egd.beam
+END
+percept_analyzer.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept_analyzer.beam
+END
+percept_graph.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept_graph.beam
+END
+percept_image.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/percept-0.8.8.2/ebin/percept_image.beam
+END

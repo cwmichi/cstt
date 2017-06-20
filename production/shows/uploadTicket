@@ -1,0 +1,11 @@
+function(doc, req) {
+  // !json templates.uploadTicket
+  // !code vendor/couchapp/template.js
+
+
+  return template(templates.uploadTicket, {
+      docid : doc._id,
+      rev: doc._rev,
+      ticketNumber: doc.ticketNumber
+    });
+}

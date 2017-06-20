@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_plugins-0.1/ebin
+END
+couch_plugins_httpd.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_plugins-0.1/ebin/couch_plugins_httpd.beam
+END
+couch_plugins.app
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_plugins-0.1/ebin/couch_plugins.app
+END
+couch_plugins.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_plugins-0.1/ebin/couch_plugins.beam
+END

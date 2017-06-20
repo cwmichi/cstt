@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Customer Support Ticket Tool</title>
+    <link rel="shortcut icon" href="favicon_green.ico" type="image/x-icon">
+    
+	<!-- CSTT CSS -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<!-- Notwendig für Sencha CMD -->
+	
+    <!-- <x-compile> -->
+        <!-- <x-bootstrap> -->
+        	<!-- ExtJS CSS -->
+			<link rel="stylesheet" href="bootstrap.css">
+            <script src="ext/ext-all-debug-w-comments.js"></script>
+        <!-- </x-bootstrap> -->
+        <script src="ext/locale/ext-lang-de.js"></script> 
+        <script src="js/launch.js"></script> 
+        <script src="js/cstt.js"></script> 
+        
+        <script src="app.js"></script>
+    <!-- </x-compile> -->
+   
+<script type="text/javascript" src="js/ext/StatusBar.js"></script> 
+    
+   
+<script src="js/json2.js"></script>
+    <script src="js/sha1.js"></script>
+    <script src="js/jquery.js?1.4.2"></script>
+    <script src="js/jquery.couch.js?0.11.0"></script>
+    <script src="js/jquery.dialog.js?0.11.0"></script>
+	 <script src="js/jquery.form.js"></script>
+
+</head>
+<body>
+<div id="myHiddenIFrame"></div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/otp_mibs-1.0.8/ebin
+END
+otp_mibs.app
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/otp_mibs-1.0.8/ebin/otp_mibs.app
+END
+otp_mib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/otp_mibs-1.0.8/ebin/otp_mib.beam
+END
+otp_mibs.appup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/otp_mibs-1.0.8/ebin/otp_mibs.appup
+END

@@ -1,0 +1,183 @@
+
+
+cd /usr/local/
+mkdir ssl
+cd /usr/local/ssl
+
+wget http://bestinformed002.cordaware.com/cstt/ca_sbs.pem
+wget http://bestinformed002.cordaware.com/cstt/cstt.cordaware.com.pem
+wget http://bestinformed002.cordaware.com/cstt/serverkey.pem
+
+vi /usr/local/etc/couchdb/local.ini
+
+[ssl]
+cacert_file = /usr/local/ssl/ca_sbs.pem
+cert_file = /usr/local/ssl/cstt.cordaware.com.pem
+key_file = /usr/local/ssl/serverkey.pem
+password = CW$cstt2014
+
+
+[vhosts]
+cstt.cordaware.com:5984 = /cstt_web/_design/cstt/_rewrite
+cstt.cordaware.com:6984 = /cstt_web/_design/cstt/_rewrite
+cstt.cordaware.com = /cstt_web/_design/cstt/_rewrite
+
+[couchdb]
+delayed_commits = false
+
+[httpd]
+bind_address = 0.0.0.0
+authentication_handlers = {couch_httpd_auth, default_authentication_handler}, {ldap_auth, handle_admin_role}
+secure_rewrites = false
+
+[httpd_global_handlers]
+_session = {ldap_auth, handle_session_req}
+
+[daemons]
+httpsd = {couch_httpd, start_link, [https]}
+
+[httpd_db_handlers]
+_exportTickets = {cstt_httpd_handler, export_tickets}
+
+[ldap_auth]
+; NOTE: for all of the following configurations, if the key is suffixed in "DN", ldap_auth
+; will expect you to provide a real LDAP Distinguished Name.
+
+; If you use handle_admin_role to assign your system admins, specify the authentication handlers it should
+; query here. See SystemAdminRoleName for more details.
+AuthenticationHandlers = {couch_httpd_auth, cookie_authentication_handler}, {ldap_auth, handle_basic_auth_req}
+
+; Enable SSL to the LDAP server.
+UseSsl = true
+
+LdapPort = 636
+
+; The LDAP servers to use for searches and authentication, separated by commas. These will be tried in-order.
+LdapServers = remote.cordaware.com, cordaware.dyndns.org, cordaware2.dyndns.org
+
+; The DN to narrow the scope of searches for users and groups.
+BaseDN = DC=cordaware,DC=local
+
+; ldap_auth will use this user DN and password to search for users trying to authenticate.
+; if you have anonymous LDAP queries enabled (not recommended) you may simply provide the
+; `anon` CN and a blank password.
+SearchUserDN = CN=CSTT,OU=SBSUsers,OU=Users,OU=MyBusiness,DC=Cordaware,DC=local
+SearchUserPassword = CW$cstt2014
+
+; On ActiveDirectory, you might choose from:
+; - sAMAccountName, e.g. jsmith
+; - userPrincipalName, e.g. jsmith@example.com
+;   NOTE: if you use userPrincipalName, be sure to URL-encode the username when using basic auth.
+;   e.g. http://jsmith%40example.com:password@example.com:5984
+UserDNMapAttr = sAMAccountName
+
+; The LDAP attribute of the group to use as the role name.
+GroupDNMapAttr = name
+
+; The role to grant system administrative privileges to.
+; If you include {ldap_auth, handle_admin_role} in your authentication_handlers, it will
+; grant the system admin role to anyone who has this role assigned. BE CAREFUL.
+SystemAdminRoleName = schema-admins
+
+[native_query_servers]
+erlang = {couch_native_process, start_link, []}
+                                                   
+
+cd /usr/local/lib/couchdb/erlang/lib/couch-1.6.0/ebin
+
+wget http://bestinformed002.cordaware.com/cstt/binstr.beam			
+wget http://bestinformed002.cordaware.com/cstt/gen_smtp_client.beam		
+wget http://bestinformed002.cordaware.com/cstt/ldap_auth.app			
+wget http://bestinformed002.cordaware.com/cstt/ldap_auth_config.beam		
+wget http://bestinformed002.cordaware.com/cstt/mimemail.beam			
+wget http://bestinformed002.cordaware.com/cstt/smtp_rfc822_parse.yrl		
+wget http://bestinformed002.cordaware.com/cstt/socket.beam
+wget http://bestinformed002.cordaware.com/cstt/gen_smtp.app			
+wget http://bestinformed002.cordaware.com/cstt/gen_smtp_server.beam		
+wget http://bestinformed002.cordaware.com/cstt/ldap_auth.beam			
+wget http://bestinformed002.cordaware.com/cstt/ldap_auth_gateway.beam		
+wget http://bestinformed002.cordaware.com/cstt/smtp_rfc822_parse.beam		
+wget http://bestinformed002.cordaware.com/cstt/smtp_server_example.beam
+wget http://bestinformed002.cordaware.com/cstt/cstt_httpd_handler.beam		
+wget http://bestinformed002.cordaware.com/cstt/gen_smtp_application.beam	
+wget http://bestinformed002.cordaware.com/cstt/gen_smtp_server_session.beam
+wget http://bestinformed002.cordaware.com/cstt/smtp_util.beam
+
+Per SSH auf Proxmox Server anmelden:
+vi /etc/vz/vz.conf
+
+in der folgenden Zeile den Parameter iptable_nat hinzufügen
+
+IPTABLES="ipt_REJECT ipt_tos ipt_limit ipt_multiport iptable_filter iptable_mangle iptable_nat ipt_TCPMSS ipt_tcpmss ipt_ttl ipt_length"
+
+
+iptables -t nat -A PREROUTING -p tcp --dport 443 -j REDIRECT --to 6984
+
+iptables -t nat -A OUTPUT -p tcp -d 192.168.1.138 --dport 443 -j REDIRECT --to 6984
+
+
+apt-get install iptables-persistent
+
+wget http://bestinformed002.cordaware.com/cstt/security.json
+curl -d @security.json -u admin -X PUT http://127.0.0.1:5984/cstt/_security
+
+wget http://bestinformed002.cordaware.com/cstt/security_cstt_web.json
+curl -d @security_cstt_web.json -u admin -X PUT http://127.0.0.1:5984/cstt_web/_security
+
+
+
+Replication Dokumente in der Datenbank anpassen!
+
+URL: https://admin:CW$cstt2014@couchdbDNS:6984/
+
+"user_ctx": {
+       "name": "admin",
+       "roles": [
+           "_admin"
+       ]
+   }
+   
+Beispiel:
+
+{
+   "_id": "cwserver22_to_cwserver28_cstt",
+   "_rev": "5-bc0a16876a391f03f6309b0a6f169242",
+   "target": "cstt",
+   "source": "https://admin:CW$cstt2014@192.168.1.124:6984/cstt",
+   "continuous": true,
+   "owner": "admin",
+   "_replication_state": "triggered",
+   "_replication_state_time": "2014-07-28T20:31:52+02:00",
+   "_replication_id": "554b24772ae3f6169412e451f8457211",
+   "user_ctx": {
+       "name": "admin",
+       "roles": [
+           "_admin"
+       ]
+   }
+}
+
+ "_id": "rep_hetzner_to_local_cstt_web",
+   "target": "cstt_web",
+   "source": "https://admin:CW$cstt2014@5.9.236.82:6984/cstt_web",
+   "continuous": true,
+   "owner": "admin",
+   "user_ctx": {
+       "name": "admin",
+       "roles": [
+           "_admin"
+       ]
+   }
+
+"_id": "rep_hetzner_to_local_cstt",
+   "target": "cstt",
+   "source": "https://admin:CW$cstt2014@5.9.236.82:6984/cstt",
+   "continuous": true,
+   "owner": "admin",
+   "user_ctx": {
+       "name": "admin",
+       "roles": [
+           "_admin"
+       ]
+   }
+

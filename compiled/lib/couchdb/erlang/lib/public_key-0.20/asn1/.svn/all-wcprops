@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1
+END
+OTP-PUB-KEY.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/OTP-PUB-KEY.hrl
+END
+PKCS-10.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-10.asn1
+END
+PKIX1Explicit88.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKIX1Explicit88.asn1
+END
+PKCS-8.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-8.asn1
+END
+PKCS-7.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-7.asn1
+END
+InformationFramework.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/InformationFramework.asn1
+END
+PKCS-3.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-3.asn1
+END
+PKCS-1.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-1.asn1
+END
+OTP-PKIX.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/OTP-PKIX.asn1
+END
+PKIX1Implicit88.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKIX1Implicit88.asn1
+END
+OTP-PUB-KEY.asn1config
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/OTP-PUB-KEY.asn1config
+END
+PKIX1Algorithms88.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKIX1Algorithms88.asn1
+END
+PKCS5v2-0.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS5v2-0.asn1
+END
+PKCS-FRAME.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-FRAME.erl
+END
+OTP-PUB-KEY.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/OTP-PUB-KEY.erl
+END
+PKIXAttributeCertificate.asn1
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKIXAttributeCertificate.asn1
+END
+PKCS-FRAME.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/public_key-0.20/asn1/PKCS-FRAME.hrl
+END

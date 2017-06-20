@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp
+END
+megaco_tcp_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp_sup.erl
+END
+megaco_tcp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp.erl
+END
+megaco_tcp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp.hrl
+END
+megaco_tcp_accept_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp_accept_sup.erl
+END
+megaco_tcp_accept.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp_accept.erl
+END
+megaco_tcp_connection_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp_connection_sup.erl
+END
+megaco_tcp_connection.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/tcp/megaco_tcp_connection.erl
+END

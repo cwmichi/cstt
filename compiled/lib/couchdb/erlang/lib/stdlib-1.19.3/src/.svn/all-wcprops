@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src
+END
+queue.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/queue.erl
+END
+string.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/string.erl
+END
+edlin.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/edlin.erl
+END
+gen_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gen_server.erl
+END
+proplists.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/proplists.erl
+END
+ms_transform.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/ms_transform.erl
+END
+lists.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/lists.erl
+END
+orddict.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/orddict.erl
+END
+pool.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/pool.erl
+END
+proc_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/proc_lib.erl
+END
+erl_internal.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_internal.erl
+END
+zip.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/zip.erl
+END
+dets_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets_server.erl
+END
+ets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/ets.erl
+END
+epp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/epp.erl
+END
+io.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/io.erl
+END
+qlc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/qlc.erl
+END
+io_lib_pretty.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/io_lib_pretty.erl
+END
+sofs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/sofs.erl
+END
+io_lib_format.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/io_lib_format.erl
+END
+shell.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/shell.erl
+END
+gb_trees.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gb_trees.erl
+END
+ordsets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/ordsets.erl
+END
+shell_default.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/shell_default.erl
+END
+re.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/re.erl
+END
+gb_sets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gb_sets.erl
+END
+dict.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dict.erl
+END
+calendar.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/calendar.erl
+END
+dets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets.erl
+END
+supervisor_bridge.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/supervisor_bridge.erl
+END
+random.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/random.erl
+END
+erl_tar.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_tar.erl
+END
+timer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/timer.erl
+END
+eval_bits.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/eval_bits.erl
+END
+sys.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/sys.erl
+END
+base64.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/base64.erl
+END
+dets_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets_sup.erl
+END
+gen.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gen.erl
+END
+gen_fsm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gen_fsm.erl
+END
+otp_internal.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/otp_internal.erl
+END
+sets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/sets.erl
+END
+erl_compile.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_compile.erl
+END
+erl_parse.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_parse.erl
+END
+slave.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/slave.erl
+END
+array.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/array.erl
+END
+digraph_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/digraph_utils.erl
+END
+erl_scan.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_scan.erl
+END
+log_mf_h.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/log_mf_h.erl
+END
+unicode.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/unicode.erl
+END
+erl_pp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_pp.erl
+END
+dets_v8.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets_v8.erl
+END
+dets_v9.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets_v9.erl
+END
+c.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/c.erl
+END
+erl_lint.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_lint.erl
+END
+erl_posix_msg.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_posix_msg.erl
+END
+erl_bits.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_bits.erl
+END
+edlin_expand.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/edlin_expand.erl
+END
+erl_parse.yrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_parse.yrl
+END
+supervisor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/supervisor.erl
+END
+digraph.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/digraph.erl
+END
+io_lib_fread.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/io_lib_fread.erl
+END
+gen_event.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/gen_event.erl
+END
+io_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/io_lib.erl
+END
+file_sorter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/file_sorter.erl
+END
+escript.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/escript.erl
+END
+dets_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets_utils.erl
+END
+beam_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/beam_lib.erl
+END
+pg.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/pg.erl
+END
+win32reg.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/win32reg.erl
+END
+qlc_pt.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/qlc_pt.erl
+END
+erl_eval.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_eval.erl
+END
+erl_expand_records.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/erl_expand_records.erl
+END
+error_logger_file_h.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/error_logger_file_h.erl
+END
+binary.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/binary.erl
+END
+dets.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/dets.hrl
+END
+lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/lib.erl
+END
+filename.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/filename.erl
+END
+math.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/math.erl
+END
+filelib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/filelib.erl
+END
+error_logger_tty_h.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/src/error_logger_tty_h.erl
+END

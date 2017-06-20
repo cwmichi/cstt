@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src
+END
+pman_buf_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf_utils.erl
+END
+pman_buf_printer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf_printer.erl
+END
+pman_process.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_process.erl
+END
+pman_shell.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_shell.erl
+END
+pman_relay.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_relay.erl
+END
+pman_buf.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf.erl
+END
+pman_buf_converter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf_converter.erl
+END
+pman_buf.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf.hrl
+END
+pman_buf_buffer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_buf_buffer.erl
+END
+pman_relay_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_relay_server.erl
+END
+pman_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_win.erl
+END
+assert.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/assert.hrl
+END
+pman_options.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_options.erl
+END
+pman.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman.erl
+END
+pman_win.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_win.hrl
+END
+pman_module_info.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_module_info.erl
+END
+pman_options.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_options.hrl
+END
+pman_tool.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_tool.erl
+END
+pman_main.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/pman-2.7.1.4/src/pman_main.erl
+END

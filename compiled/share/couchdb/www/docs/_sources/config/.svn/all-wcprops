@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config
+END
+http-handlers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/http-handlers.txt
+END
+services.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/services.txt
+END
+logging.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/logging.txt
+END
+replicator.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/replicator.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/index.txt
+END
+proxying.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/proxying.txt
+END
+compaction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/compaction.txt
+END
+auth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/auth.txt
+END
+externals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/externals.txt
+END
+http.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/http.txt
+END
+query-servers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/query-servers.txt
+END
+couchdb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/couchdb.txt
+END
+intro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/intro.txt
+END
+misc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/config/misc.txt
+END

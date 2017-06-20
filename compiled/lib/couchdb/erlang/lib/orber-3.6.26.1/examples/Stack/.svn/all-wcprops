@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack
+END
+StackModule_StackFactory_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/StackModule_StackFactory_impl.erl
+END
+StackModule_Stack_impl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/StackModule_Stack_impl.erl
+END
+stack_client.erl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/stack_client.erl
+END
+stack_factory.erl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/stack_factory.erl
+END
+StackClient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/StackClient.cc
+END
+stack.idl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/stack.idl
+END
+StackClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/StackClient.java
+END
+InitialReferences.idl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/orber-3.6.26.1/examples/Stack/InitialReferences.idl
+END

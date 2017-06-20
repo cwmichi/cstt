@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src
+END
+uds_dist.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src/uds_dist.erl
+END
+uds_dist.app
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src/uds_dist.app
+END
+uds.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src/uds.erl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src/Makefile
+END
+uds_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/examples/uds_dist/src/uds_server.erl
+END

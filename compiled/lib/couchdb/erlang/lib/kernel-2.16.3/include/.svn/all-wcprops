@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include
+END
+file.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/file.hrl
+END
+net_address.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/net_address.hrl
+END
+inet.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/inet.hrl
+END
+dist.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/dist.hrl
+END
+inet_sctp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/inet_sctp.hrl
+END
+dist_util.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/kernel-2.16.3/include/dist_util.hrl
+END

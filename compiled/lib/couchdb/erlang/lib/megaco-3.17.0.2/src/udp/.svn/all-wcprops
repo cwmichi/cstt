@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/udp
+END
+megaco_udp_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/udp/megaco_udp_sup.erl
+END
+megaco_udp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/udp/megaco_udp.erl
+END
+megaco_udp_server.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/udp/megaco_udp_server.erl
+END
+megaco_udp.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/src/udp/megaco_udp.hrl
+END

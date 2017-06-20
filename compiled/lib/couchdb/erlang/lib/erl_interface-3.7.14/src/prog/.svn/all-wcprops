@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog
+END
+erl_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog/erl_call.c
+END
+erl_start.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog/erl_start.c
+END
+erl_fake_prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog/erl_fake_prog.c
+END
+erl_start.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog/erl_start.h
+END
+ei_fake_prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/prog/ei_fake_prog.c
+END

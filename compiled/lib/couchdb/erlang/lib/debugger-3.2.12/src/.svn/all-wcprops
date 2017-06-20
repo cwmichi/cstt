@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src
+END
+dbg_idb.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_idb.erl
+END
+dbg_ui_mon_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_mon_win.erl
+END
+dbg_wx_break_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_break_win.erl
+END
+dbg_wx_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_win.erl
+END
+dbg_iserver.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_iserver.erl
+END
+dbg_ui_filedialog_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_filedialog_win.erl
+END
+dbg_ui_settings.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_settings.erl
+END
+dbg_ui_view.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_view.erl
+END
+dbg_wx_trace_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_trace_win.erl
+END
+dbg_ui_edit_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_edit_win.erl
+END
+dbg_wx_mon_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_mon_win.erl
+END
+debugger.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/debugger.erl
+END
+dbg_wx_src_view.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_src_view.erl
+END
+dbg_debugged.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_debugged.erl
+END
+dbg_wx_filedialog_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_filedialog_win.erl
+END
+i.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/i.erl
+END
+dbg_ui_break.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_break.erl
+END
+dbg_wx_settings.erl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_settings.erl
+END
+dbg_wx_view.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_view.erl
+END
+dbg_ieval.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ieval.erl
+END
+int.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/int.erl
+END
+dbg_ui_trace.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_trace.erl
+END
+dbg_ieval.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ieval.hrl
+END
+dbg_ui_winman.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_winman.erl
+END
+dbg_wx_code.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_code.erl
+END
+dbg_istk.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_istk.erl
+END
+dbg_ui_mon.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_mon.erl
+END
+dbg_wx_break.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_break.erl
+END
+dbg_ui_interpret.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_interpret.erl
+END
+dbg_iload.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_iload.erl
+END
+dbg_wx_trace.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_trace.erl
+END
+dbg_ui_edit.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_edit.erl
+END
+dbg_wx_mon.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_mon.erl
+END
+dbg_wx_interpret.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_interpret.erl
+END
+dbg_wx_winman.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_wx_winman.erl
+END
+dbg_icmd.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_icmd.erl
+END
+dbg_ui_break_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_break_win.erl
+END
+dbg_ui_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_win.erl
+END
+dbg_ui_trace_win.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/debugger-3.2.12/src/dbg_ui_trace_win.erl
+END

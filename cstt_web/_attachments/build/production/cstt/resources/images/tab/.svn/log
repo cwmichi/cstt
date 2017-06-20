@@ -1,0 +1,11 @@
+<modify-entry
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="true"
+   name="tab-default-bottom-active-corners.gif"
+   has-props="true"
+   present-props=""/>
+<mv
+   dest=".svn/props/tab-default-bottom-active-corners.gif.svn-work"
+   name=".svn/tmp/props/tab-default-bottom-active-corners.gif.svn-work"/>
+<readonly
+   name=".svn/props/tab-default-bottom-active-corners.gif.svn-work"/>

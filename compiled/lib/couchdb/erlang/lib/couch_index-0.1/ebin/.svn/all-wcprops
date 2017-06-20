@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin
+END
+couch_index_updater.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin/couch_index_updater.beam
+END
+couch_index_compactor.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin/couch_index_compactor.beam
+END
+couch_index.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin/couch_index.beam
+END
+couch_index_server.beam
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin/couch_index_server.beam
+END
+couch_index_util.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/couch_index-0.1/ebin/couch_index_util.beam
+END

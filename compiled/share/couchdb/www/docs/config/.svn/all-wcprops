@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config
+END
+auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/auth.html
+END
+externals.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/externals.html
+END
+http.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/http.html
+END
+compaction.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/compaction.html
+END
+proxying.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/proxying.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/index.html
+END
+logging.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/logging.html
+END
+replicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/replicator.html
+END
+http-handlers.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/http-handlers.html
+END
+services.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/services.html
+END
+couchdb.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/couchdb.html
+END
+intro.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/intro.html
+END
+misc.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/misc.html
+END
+query-servers.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/config/query-servers.html
+END

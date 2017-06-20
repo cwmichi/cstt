@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include
+END
+diameter.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter.hrl
+END
+diameter_gen.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen.hrl
+END
+diameter_gen_relay.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen_relay.hrl
+END
+diameter_gen_base_accounting.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen_base_accounting.hrl
+END
+diameter_gen_base_rfc6733.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen_base_rfc6733.hrl
+END
+diameter_gen_base_rfc3588.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen_base_rfc3588.hrl
+END
+diameter_gen_acct_rfc6733.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/include/diameter_gen_acct_rfc6733.hrl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/c_src
+END
+erl_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/c_src/erl_memory.c
+END
+erl_memory_trace_block_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/c_src/erl_memory_trace_block_table.c
+END
+erl_memory_trace_block_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/tools-2.6.12/c_src/erl_memory_trace_block_table.h
+END

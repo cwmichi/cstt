@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base
+END
+diameter_app.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_app.erl
+END
+diameter_internal.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_internal.hrl
+END
+diameter_service_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_service_sup.erl
+END
+diameter_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_lib.erl
+END
+diameter_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_config.erl
+END
+diameter_peer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_peer.erl
+END
+diameter_peer_fsm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_peer_fsm.erl
+END
+diameter_callback.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_callback.erl
+END
+diameter_dbg.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_dbg.erl
+END
+diameter_capx.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_capx.erl
+END
+diameter_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_sup.erl
+END
+diameter_watchdog.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_watchdog.erl
+END
+diameter_info.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_info.erl
+END
+diameter_reg.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_reg.erl
+END
+diameter_service.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_service.erl
+END
+diameter_codec.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_codec.erl
+END
+diameter_peer_fsm_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_peer_fsm_sup.erl
+END
+diameter_session.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_session.erl
+END
+diameter_types.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_types.erl
+END
+diameter_dict.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_dict.erl
+END
+diameter_traffic.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_traffic.erl
+END
+diameter.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter.erl
+END
+diameter_misc_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_misc_sup.erl
+END
+diameter_stats.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_stats.erl
+END
+diameter_sync.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_sync.erl
+END
+diameter_watchdog_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/diameter-1.4.3/src/base/diameter_watchdog_sup.erl
+END

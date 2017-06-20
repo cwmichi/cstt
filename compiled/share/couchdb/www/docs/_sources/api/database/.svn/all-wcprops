@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database
+END
+bulk-api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/bulk-api.txt
+END
+security.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/security.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/index.txt
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/changes.txt
+END
+compact.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/compact.txt
+END
+temp-views.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/temp-views.txt
+END
+common.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/common.txt
+END
+misc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/api/database/misc.txt
+END

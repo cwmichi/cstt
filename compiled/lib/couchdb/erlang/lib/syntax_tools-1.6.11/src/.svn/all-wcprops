@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src
+END
+igor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/igor.erl
+END
+erl_syntax.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_syntax.erl
+END
+epp_dodger.erl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/epp_dodger.erl
+END
+erl_prettypr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_prettypr.erl
+END
+prettypr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/prettypr.erl
+END
+erl_syntax_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_syntax_lib.erl
+END
+erl_tidy.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_tidy.erl
+END
+erl_recomment.erl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_recomment.erl
+END
+erl_comment_scan.erl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/syntax_tools-1.6.11/src/erl_comment_scan.erl
+END

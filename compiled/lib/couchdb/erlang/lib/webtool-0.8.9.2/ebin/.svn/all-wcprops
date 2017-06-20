@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/webtool-0.8.9.2/ebin
+END
+webtool.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/webtool-0.8.9.2/ebin/webtool.beam
+END
+webtool_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/webtool-0.8.9.2/ebin/webtool_sup.beam
+END
+webtool.appup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/webtool-0.8.9.2/ebin/webtool.appup
+END
+webtool.app
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/webtool-0.8.9.2/ebin/webtool.app
+END

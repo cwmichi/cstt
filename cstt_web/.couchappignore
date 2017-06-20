@@ -1,0 +1,14 @@
+[
+   "\\lists",
+   "\\shows",
+   "\\.svn",
+   "\\.git",
+   "login.php",
+   "mail.php",
+   "upload.php",
+".*\\.DS_Store$",
+".*\\.svn.*",
+".*\\.git.*",
+".*\\.sencha.*",
+".*\\.sencha_backup.*"
+]

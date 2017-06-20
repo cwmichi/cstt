@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin
+END
+CosFileTransfer_VirtualFileSystem_ContentList.beam
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_VirtualFileSystem_ContentList.beam
+END
+CosFileTransfer_Directory.beam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_Directory.beam
+END
+cosFileTransfer.app
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/cosFileTransfer.app
+END
+CosFileTransfer_FileIterator.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileIterator.beam
+END
+CosFileTransfer_VirtualFileSystem_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_VirtualFileSystem_impl.beam
+END
+CosFileTransfer_FileNameList.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileNameList.beam
+END
+cosFileTransferNATIVE_file.beam
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/cosFileTransferNATIVE_file.beam
+END
+CosFileTransfer_FileNotFoundException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileNotFoundException.beam
+END
+CosFileTransfer_TransferException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_TransferException.beam
+END
+cosFileTransferApp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/cosFileTransferApp.beam
+END
+CosFileTransfer_File_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_File_impl.beam
+END
+CosFileTransfer_AccessLevel.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_AccessLevel.beam
+END
+CosFileTransfer.beam
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer.beam
+END
+CosFileTransfer_File.beam
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_File.beam
+END
+CosFileTransfer_IllegalOperationException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_IllegalOperationException.beam
+END
+CosFileTransfer_SupportedProtocolAddresses.beam
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_SupportedProtocolAddresses.beam
+END
+CosFileTransfer_FileList.beam
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileList.beam
+END
+CosFileTransfer_SessionException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_SessionException.beam
+END
+CosFileTransfer_ProtocolAddressList.beam
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_ProtocolAddressList.beam
+END
+CosFileTransfer_CommandNotImplementedException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_CommandNotImplementedException.beam
+END
+CosFileTransfer_FileWrapper.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileWrapper.beam
+END
+CosFileTransfer_ProtocolSupport.beam
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_ProtocolSupport.beam
+END
+CosFileTransfer_VirtualFileSystem.beam
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_VirtualFileSystem.beam
+END
+oe_CosFileTransfer.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/oe_CosFileTransfer.beam
+END
+CosFileTransfer_FileIterator_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileIterator_impl.beam
+END
+CosFileTransfer_Directory_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_Directory_impl.beam
+END
+CosFileTransfer_RequestFailureException.beam
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_RequestFailureException.beam
+END
+CosFileTransfer_FileTransferSession_impl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileTransferSession_impl.beam
+END
+cosFileTransfer.appup
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/cosFileTransfer.appup
+END
+CosFileTransfer_FileTransferSession.beam
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosFileTransfer-1.1.15/ebin/CosFileTransfer_FileTransferSession.beam
+END

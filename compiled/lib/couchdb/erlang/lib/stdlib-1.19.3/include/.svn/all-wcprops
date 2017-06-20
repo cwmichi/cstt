@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include
+END
+zip.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include/zip.hrl
+END
+erl_compile.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include/erl_compile.hrl
+END
+ms_transform.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include/ms_transform.hrl
+END
+erl_bits.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include/erl_bits.hrl
+END
+qlc.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/stdlib-1.19.3/include/qlc.hrl
+END

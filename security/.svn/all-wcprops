@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/cstt/!svn/ver/31/security
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/cstt/!svn/ver/31/security/readme.txt
+END
+security_cstt_web.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cstt/!svn/ver/31/security/security_cstt_web.json
+END
+security.json
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cstt/!svn/ver/31/security/security.json
+END

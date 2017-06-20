@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin
+END
+edoc.appup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc.appup
+END
+edoc_wiki.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_wiki.beam
+END
+edoc_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_lib.beam
+END
+edoc.app
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc.app
+END
+edoc_data.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_data.beam
+END
+edoc_layout.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_layout.beam
+END
+edoc_extract.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_extract.beam
+END
+edoc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc.beam
+END
+edoc_macros.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_macros.beam
+END
+edoc_scanner.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_scanner.beam
+END
+edoc_doclet.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_doclet.beam
+END
+edoc_types.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_types.beam
+END
+edoc_refs.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_refs.beam
+END
+edoc_specs.beam
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_specs.beam
+END
+edoc_parser.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_parser.beam
+END
+otpsgml_layout.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/otpsgml_layout.beam
+END
+edoc_tags.beam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_tags.beam
+END
+edoc_report.beam
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_report.beam
+END
+edoc_run.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/edoc-0.7.12.1/ebin/edoc_run.beam
+END

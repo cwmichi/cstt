@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin
+END
+megaco_tcp_connection.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp_connection.beam
+END
+megaco_per_media_gateway_control_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_prev3a.beam
+END
+megaco_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_encoder.beam
+END
+megaco_filter.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_filter.beam
+END
+megaco_flex_scanner.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_flex_scanner.beam
+END
+megaco_monitor.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_monitor.beam
+END
+megaco_per_media_gateway_control_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_v3.beam
+END
+megaco_trans_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_trans_sup.beam
+END
+megaco_compact_text_encoder_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_v2.beam
+END
+megaco_text_parser_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_prev3c.beam
+END
+megaco_pretty_text_encoder_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_prev3a.beam
+END
+megaco_user_default.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_user_default.beam
+END
+megaco_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_sup.beam
+END
+megaco_trans_sender.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_trans_sender.beam
+END
+megaco.app
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco.app
+END
+megaco_ber_media_gateway_control_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_prev3b.beam
+END
+megaco_pretty_text_encoder_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_v3.beam
+END
+megaco_text_parser_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_v1.beam
+END
+megaco_tcp_accept.beam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp_accept.beam
+END
+megaco_binary_name_resolver_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_prev3b.beam
+END
+megaco_binary_transformer_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_prev3a.beam
+END
+megaco_udp_server.beam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_udp_server.beam
+END
+megaco_binary_transformer_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_v3.beam
+END
+megaco_stats.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_stats.beam
+END
+megaco_per_media_gateway_control_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_prev3b.beam
+END
+megaco_misc_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_misc_sup.beam
+END
+megaco_compact_text_encoder_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_prev3a.beam
+END
+megaco_edist_compress.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_edist_compress.beam
+END
+megaco_compact_text_encoder_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_v3.beam
+END
+megaco_messenger.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_messenger.beam
+END
+megaco_pretty_text_encoder_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_prev3b.beam
+END
+megaco_tcp_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp_sup.beam
+END
+megaco_ber_media_gateway_control_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_prev3c.beam
+END
+megaco_ber_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_encoder.beam
+END
+megaco_text_parser_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_v2.beam
+END
+megaco_binary_name_resolver_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_prev3c.beam
+END
+megaco_binary_transformer_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_prev3b.beam
+END
+megaco_ber_media_gateway_control_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_v1.beam
+END
+megaco_erl_dist_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_erl_dist_encoder.beam
+END
+megaco_timer.beam
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_timer.beam
+END
+megaco.beam
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco.beam
+END
+megaco_per_media_gateway_control_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_prev3c.beam
+END
+megaco_sdp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_sdp.beam
+END
+megaco_binary_name_resolver_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_v1.beam
+END
+megaco_compact_text_encoder_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_prev3b.beam
+END
+megaco_per_media_gateway_control_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_v1.beam
+END
+megaco_pretty_text_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder.beam
+END
+megaco_pretty_text_encoder_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_prev3c.beam
+END
+megaco_text_parser_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_prev3a.beam
+END
+megaco_udp_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_udp_sup.beam
+END
+megaco_text_scanner.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_scanner.beam
+END
+megaco_tcp_connection_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp_connection_sup.beam
+END
+megaco_text_parser_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_v3.beam
+END
+megaco_digit_map.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_digit_map.beam
+END
+megaco_pretty_text_encoder_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_v1.beam
+END
+megaco_transport.beam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_transport.beam
+END
+megaco_compact_text_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder.beam
+END
+megaco_binary_transformer_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_prev3c.beam
+END
+megaco_ber_media_gateway_control_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_v2.beam
+END
+megaco_binary_encoder_lib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_encoder_lib.beam
+END
+megaco_flex_scanner_handler.beam
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_flex_scanner_handler.beam
+END
+megaco_tcp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp.beam
+END
+megaco_binary_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_encoder.beam
+END
+megaco_binary_name_resolver_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_v2.beam
+END
+megaco_binary_transformer_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_v1.beam
+END
+megaco_compact_text_encoder_prev3c.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_prev3c.beam
+END
+megaco_messenger_misc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_messenger_misc.beam
+END
+megaco_per_encoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_encoder.beam
+END
+megaco_per_media_gateway_control_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_per_media_gateway_control_v2.beam
+END
+megaco_tcp_accept_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_tcp_accept_sup.beam
+END
+megaco_text_mini_parser.beam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_mini_parser.beam
+END
+megaco_compact_text_encoder_v1.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_compact_text_encoder_v1.beam
+END
+megaco.appup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco.appup
+END
+megaco_binary_term_id.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_term_id.beam
+END
+megaco_erl_dist_encoder_mc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_erl_dist_encoder_mc.beam
+END
+megaco_text_parser_prev3b.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_parser_prev3b.beam
+END
+megaco_text_mini_decoder.beam
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_text_mini_decoder.beam
+END
+megaco_ber_media_gateway_control_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_prev3a.beam
+END
+megaco_pretty_text_encoder_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_pretty_text_encoder_v2.beam
+END
+megaco_config_misc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_config_misc.beam
+END
+megaco_ber_media_gateway_control_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_ber_media_gateway_control_v3.beam
+END
+megaco_binary_name_resolver_prev3a.beam
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_prev3a.beam
+END
+megaco_config.beam
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_config.beam
+END
+megaco_binary_term_id_gen.beam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_term_id_gen.beam
+END
+megaco_udp.beam
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_udp.beam
+END
+megaco_binary_name_resolver_v3.beam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_name_resolver_v3.beam
+END
+megaco_binary_transformer_v2.beam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/megaco-3.17.0.2/ebin/megaco_binary_transformer_v2.beam
+END

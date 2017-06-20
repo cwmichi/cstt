@@ -1,0 +1,254 @@
+10
+
+dir
+18
+https://cwserver12.cordaware30.local:8443/svn/cstt/compiled/lib/couchdb/erlang/lib
+https://cwserver12.cordaware30.local:8443/svn/cstt
+
+
+
+2014-01-23T13:33:32.423304Z
+18
+michael.scharrer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b57cd783-46cb-8047-b617-7846a598c2b5
+
+
+
+
+
+
+0
+
+appmon-2.1.14.2
+dir
+
+asn1-2.0.3
+dir
+
+common_test-1.7.3
+dir
+
+compiler-4.9.3
+dir
+
+cosEvent-2.1.14
+dir
+
+cosEventDomain-1.1.13
+dir
+
+cosFileTransfer-1.1.15
+dir
+
+cosNotification-1.1.20
+dir
+
+cosProperty-1.1.16
+dir
+
+cosTime-1.1.13
+dir
+
+cosTransactions-1.2.13
+dir
+
+couch-1.5.0
+dir
+
+couch_dbupdates-0.1
+dir
+
+couch_index-0.1
+dir
+
+couch_mrview-0.1
+dir
+
+couch_plugins-0.1
+dir
+
+couch_replicator-0.1
+dir
+
+crypto-3.1
+dir
+
+debugger-3.2.12
+dir
+
+dialyzer-2.6.1
+dir
+
+diameter-1.4.3
+dir
+
+edoc-0.7.12.1
+dir
+
+ejson-0.1.0
+dir
+
+eldap-1.0.1
+dir
+
+erl_docgen-0.3.4.1
+dir
+
+erl_interface-3.7.14
+dir
+
+erlang-oauth
+dir
+
+erts-5.10.3
+dir
+
+et-1.4.4.5
+dir
+
+etap
+dir
+
+eunit-2.2.5
+dir
+
+gs-1.5.15.2
+dir
+
+hipe-3.10.2.1
+dir
+
+ibrowse-2.2.0
+dir
+
+ic-4.3.3
+dir
+
+inets-5.9.6
+dir
+
+kernel-2.16.3
+dir
+
+megaco-3.17.0.2
+dir
+
+mimetypes
+dir
+
+mnesia-4.10
+dir
+
+mochiweb
+dir
+
+mochiweb-1.4.1
+dir
+
+nitrogen_core
+dir
+
+nprocreg
+dir
+
+observer-1.3.1.1
+dir
+
+odbc-2.10.17
+dir
+
+orber-3.6.26.1
+dir
+
+os_mon-2.2.13
+dir
+
+otp_mibs-1.0.8
+dir
+
+parsetools-2.0.10
+dir
+
+percept-0.8.8.2
+dir
+
+pman-2.7.1.4
+dir
+
+pmod_transform
+dir
+
+public_key-0.20
+dir
+
+reltool-0.6.4.1
+dir
+
+runtime_tools-1.8.12
+dir
+
+sasl-2.3.3
+dir
+
+simple_bridge
+dir
+
+snappy-1.0.5
+dir
+
+snmp-4.24.2
+dir
+
+ssh-2.1.8
+dir
+
+ssl-5.3.1
+dir
+
+stdlib-1.19.3
+dir
+
+sync
+dir
+
+syntax_tools-1.6.11
+dir
+
+test_server-3.6.3
+dir
+
+toolbar-1.4.2.3
+dir
+
+tools-2.6.12
+dir
+
+tv-2.1.4.10
+dir
+
+typer-0.9.5
+dir
+
+webtool-0.8.9.2
+dir
+
+wx-1.1
+dir
+
+xmerl-1.3.4
+dir
+

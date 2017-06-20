@@ -1,0 +1,46 @@
+Dateien:
+
+cstt.view.ui.loginWindow
+cstt.view.loginWindow
+cstt.view.ui.csttViewport
+cstt.store.resellerStore
+cstt.store.yearStore
+
+app.js
+
+ldap_auth_gateway.erl
+ldap_auth.erl
+rewrites.json
+
+local.ini
+
+authentication_handlers = {couch_httpd_auth, default_authentication_handler}, {ldap_auth, handle_admin_role}
+
+[ldap_auth]
+AuthenticationHandlers = {couch_httpd_auth, cookie_authentication_handler}, {ldap_auth, handle_basic_auth_req}
+
+curl -vX POST http://cstt3.cordaware.com:5990/_session -H 'Content-Type: application/x-www-form-urlencoded' -d 'name=michael.scharrer&password=CW$feb2014'
+
+
+yearStore laden!
+-----------
+Benutzer Dokument enthält
+disabled: true
+{"error":"unauthorized","reason":"User is disabled for login"}
+-----------
+wenn Benutzer nicht als Dokument in der DB cstt existiert
+{"error":"unauthorized","reason":"User is not allowed to login"}
+
+
+
+Todo:
+
+_changes feed für Datenbank cstt_web
+
+
+9:02:55 PM
+"/Users/michael/bin/Sencha/Cmd/4.0.4.84/sencha" app build testing
+cd /Users/michael/Entwicklung/cstt/cstt_web/_attachments
+/Users/michaelscharrer/bin/Sencha/Cmd/4.0.4.84/sencha app build production
+
+/Users/michaelscharrer/bin/Sencha/Cmd/4.0.4.84/sencha app refresh

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/testing.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/build.properties
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/codegen.json
+END
+sencha.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/sencha.cfg
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/build-impl.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/1/development/_attachments/ext/packages/ext-theme-classic/.sencha/package/plugin.xml
+END

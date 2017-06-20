@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include
+END
+CosPropertyService_PropertySetDefFactory.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertySetDefFactory.hrl
+END
+CosPropertyService_PropertySetDef.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertySetDef.hrl
+END
+CosPropertyService_PropertySetFactory.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertySetFactory.hrl
+END
+oe_CosProperty.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/oe_CosProperty.hrl
+END
+CosPropertyService_PropertiesIterator.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertiesIterator.hrl
+END
+CosPropertyService_PropertySet.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertySet.hrl
+END
+CosPropertyService.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService.hrl
+END
+CosPropertyService_PropertyNamesIterator.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/cosProperty-1.1.16/include/CosPropertyService_PropertyNamesIterator.hrl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install
+END
+mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install/mac.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install/index.txt
+END
+windows.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install/windows.txt
+END
+freebsd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install/freebsd.txt
+END
+unix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/docs/_sources/install/unix.txt
+END

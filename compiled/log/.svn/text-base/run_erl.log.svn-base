@@ -1,0 +1,8 @@
+run_erl [20137] Thu Jan 23 10:49:15 2014
+Args before exec of shell:
+run_erl [20137] Thu Jan 23 10:49:15 2014
+argv[0] = sh
+run_erl [20137] Thu Jan 23 10:49:15 2014
+argv[1] = -c
+run_erl [20137] Thu Jan 23 10:49:15 2014
+argv[2] = exec /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/bin/nitrogen console '' 

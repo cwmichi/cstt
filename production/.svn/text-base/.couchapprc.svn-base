@@ -1,0 +1,25 @@
+{
+  "env" : {
+    "local" : {
+      "db" : "http://localhost:5984/tickets"
+    },
+    "server2008" : {
+        "db" : "http://server2008:5984/tickets"
+    },    
+    "couchdb1" : {
+        "db" : "http://couchdb1:5984/tickets"
+    },
+     "schulung1" : {
+        "db" : "http://schulung1:8091/couchBase/tickets"
+    },
+ "ovh" : {
+        "db" : "http://admin:cordaware@176.31.54.17:5984/cstt"
+    },
+     "buben" : {
+        "db" : "http://cwserver22:5984/test_tickets"
+    },
+     "cstt" : {
+        "db" : "http://cwserver22:5984/cstt"
+    }
+  }
+}

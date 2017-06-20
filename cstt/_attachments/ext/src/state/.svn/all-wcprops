@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state
+END
+CookieProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state/CookieProvider.js
+END
+LocalStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state/LocalStorageProvider.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state/Provider.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state/Manager.js
+END
+Stateful.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/1/development/_attachments/ext/src/state/Stateful.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin
+END
+docgen_otp_specs.beam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin/docgen_otp_specs.beam
+END
+docgen_edoc_xml_cb.beam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin/docgen_edoc_xml_cb.beam
+END
+erl_docgen.appup
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin/erl_docgen.appup
+END
+docgen_xmerl_xml_cb.beam
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin/docgen_xmerl_xml_cb.beam
+END
+erl_docgen.app
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_docgen-0.3.4.1/ebin/erl_docgen.app
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src
+END
+gstk_line.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_line.erl
+END
+gstk_frame.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_frame.erl
+END
+gstk_listbox.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_listbox.erl
+END
+gstk_radiobutton.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_radiobutton.erl
+END
+gstk_rectangle.erl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_rectangle.erl
+END
+gstk_widgets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_widgets.erl
+END
+gstk_entry.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_entry.erl
+END
+gstk_gridline.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_gridline.erl
+END
+gstk_label.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_label.erl
+END
+gstk_db.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_db.erl
+END
+gs_widgets.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs_widgets.erl
+END
+gstk_checkbutton.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_checkbutton.erl
+END
+gstk_polygon.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_polygon.erl
+END
+gs_make.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs_make.erl
+END
+gstk_grid.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_grid.erl
+END
+gstk.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk.erl
+END
+gs.app.src
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs.app.src
+END
+gstk.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk.hrl
+END
+gstk_port_handler.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_port_handler.erl
+END
+gstk_font.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_font.erl
+END
+gs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs.erl
+END
+gstk_menubutton.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_menubutton.erl
+END
+gstk_oval.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_oval.erl
+END
+gstk_scale.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_scale.erl
+END
+gstk_canvas.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_canvas.erl
+END
+gstk_arc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_arc.erl
+END
+gstk_menubar.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_menubar.erl
+END
+gs_packer.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs_packer.erl
+END
+gse.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gse.erl
+END
+gstk_generic.erl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_generic.erl
+END
+gstk_menu.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_menu.erl
+END
+gstk_generic.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_generic.hrl
+END
+gstk_image.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_image.erl
+END
+tool_file_dialog.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/tool_file_dialog.erl
+END
+gs_frontend.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gs_frontend.erl
+END
+gstk_gs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_gs.erl
+END
+gstk_editor.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_editor.erl
+END
+gstk_text.erl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_text.erl
+END
+tcl2erl.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/tcl2erl.erl
+END
+tool_utils.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/tool_utils.erl
+END
+gstk_window.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_window.erl
+END
+gstk_button.erl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_button.erl
+END
+gstk_menuitem.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/gs-1.5.15.2/src/gstk_menuitem.erl
+END

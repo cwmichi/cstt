@@ -1,0 +1,9 @@
+/Users/michaelscharrer/Entwicklung/cstt/compiled/var/log/couchdb/*.log {
+       weekly
+       rotate 10
+       copytruncate
+       delaycompress
+       compress
+       notifempty
+       missingok
+}

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench
+END
+bench.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.erl
+END
+bench.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.hrl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/Makefile
+END
+bench_populate.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench_populate.erl
+END
+bench_trans.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench_trans.erl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/README
+END
+bench.config1
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config1
+END
+bench.config2
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config2
+END
+bench.config3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config3
+END
+bench.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.sh
+END
+bench.config4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config4
+END
+bench.config5
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config5
+END
+bench_generate.erl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench_generate.erl
+END
+bench.config6
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config6
+END
+bench.config7
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/mnesia-4.10/examples/bench/bench.config7
+END

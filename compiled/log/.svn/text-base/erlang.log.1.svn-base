@@ -1,0 +1,10 @@
+
+=====
+===== LOGGING STARTED Thu Jan 23 10:49:15 CET 2014
+=====
+Exec: /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/erts-5.10.3/bin/erlexec  -boot /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/releases/2.2.2/nitrogen -mode interactive  -config /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/etc/app.config -config /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/etc/mochiweb.config -config /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/etc/sync.config -args_file /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen/etc/vm.args -- console 
+Root: /Users/michaelscharrer/Entwicklung/cstt/nitrogen/rel/nitrogen
+Erlang R16B02 (erts-5.10.3) [source] [64-bit] [smp:8:8] [async-threads:5] [hipe] [kernel-poll:true] [dtrace]
+
+Eshell V5.10.3  (abort with ^G)
+(nitrogen@127.0.0.1)1> Starting Mochiweb Server (nitrogen) on 0.0.0.0:8000, root: './site/static'

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec
+END
+custom_helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/custom_helpers.js
+END
+couch_js_class_methods_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/couch_js_class_methods_spec.js
+END
+jquery_couch_js_class_methods_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/jquery_couch_js_class_methods_spec.js
+END
+jquery_couch_js_instance_methods_1_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/jquery_couch_js_instance_methods_1_spec.js
+END
+couch_js_instance_methods_1_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/couch_js_instance_methods_1_spec.js
+END
+jquery_couch_js_instance_methods_2_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/jquery_couch_js_instance_methods_2_spec.js
+END
+couch_js_instance_methods_2_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/couch_js_instance_methods_2_spec.js
+END
+jquery_couch_js_instance_methods_3_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/jquery_couch_js_instance_methods_3_spec.js
+END
+couch_js_instance_methods_3_spec.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/couch_js_instance_methods_3_spec.js
+END
+run.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cstt/!svn/ver/18/compiled/share/couchdb/www/spec/run.html
+END

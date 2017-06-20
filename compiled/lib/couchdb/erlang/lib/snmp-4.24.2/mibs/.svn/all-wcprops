@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs
+END
+SNMP-FRAMEWORK-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-FRAMEWORK-MIB.mib
+END
+TRANSPORT-ADDRESS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/TRANSPORT-ADDRESS-MIB.mib
+END
+RFC1213-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/RFC1213-MIB.mib
+END
+SNMP-MPD-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-MPD-MIB.mib
+END
+SNMPv2-TM.mib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-TM.mib
+END
+SNMP-VIEW-BASED-ACM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-VIEW-BASED-ACM-MIB.mib
+END
+SNMP-COMMUNITY-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-COMMUNITY-MIB.mib
+END
+SNMP-NOTIFICATION-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-NOTIFICATION-MIB.mib
+END
+SNMPv2-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-MIB.mib
+END
+INET-ADDRESS-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/INET-ADDRESS-MIB.mib
+END
+OTP-SNMPEA-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/OTP-SNMPEA-MIB.mib
+END
+STANDARD-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/STANDARD-MIB.mib
+END
+SNMPv2-CONF.mib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-CONF.mib
+END
+SNMP-TARGET-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-TARGET-MIB.mib
+END
+SNMP-USM-AES-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-USM-AES-MIB.mib
+END
+SNMP-NOTIFICATION-MIB.funcs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-NOTIFICATION-MIB.funcs
+END
+SNMPv2-MIB.funcs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-MIB.funcs
+END
+SNMPv2-SMI.mib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-SMI.mib
+END
+STANDARD-MIB.funcs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/STANDARD-MIB.funcs
+END
+SNMP-USER-BASED-SM-MIB.mib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-USER-BASED-SM-MIB.mib
+END
+SNMP-TARGET-MIB.funcs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMP-TARGET-MIB.funcs
+END
+SNMPv2-TC.mib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/snmp-4.24.2/mibs/SNMPv2-TC.mib
+END

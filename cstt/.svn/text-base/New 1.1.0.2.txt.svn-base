@@ -1,0 +1,12 @@
+Version 1.1.0.2 - 16.01.2012
+
+- Fixed Support abgelaufen (Internet Explorer) beim Anlegen von neuen Support Tickets
+- Verbessung der Anzeige des Datums im Format "d.m.Y H:i:s" bei Aktionen / Kommentaren
+- Fixed Kunden renderer Problem bei allen Grids
+
+
+couchapps/cstt/_attachments
+
+sencha create jsb -a index.html -p app.jsb3
+
+sencha build -p app.jsb3 -d Y:\xampplite\htdocs_vhosts\couchapps\cstt\_attachments

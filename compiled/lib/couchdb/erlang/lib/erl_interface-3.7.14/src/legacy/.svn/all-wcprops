@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy
+END
+erl_fix_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_fix_alloc.c
+END
+erl_resolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_resolve.c
+END
+global_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/global_names.c
+END
+erl_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_error.h
+END
+erl_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_malloc.h
+END
+portability.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/portability.h
+END
+erl_connect.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_connect.h
+END
+erl_fix_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_fix_alloc.h
+END
+erl_eterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_eterm.c
+END
+encode_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/encode_term.c
+END
+global_whereis.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/global_whereis.c
+END
+erl_eterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_eterm.h
+END
+erl_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_format.c
+END
+global_unregister.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/global_unregister.c
+END
+erl_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_format.h
+END
+decode_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/decode_term.c
+END
+erl_marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_marshal.c
+END
+global_register.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/global_register.c
+END
+erl_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_timeout.c
+END
+erl_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_internal.h
+END
+erl_marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_marshal.h
+END
+erl_timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_timeout.h
+END
+erl_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_config.h
+END
+erl_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_error.c
+END
+erl_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_global.h
+END
+erl_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_malloc.c
+END
+erl_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstt/!svn/ver/18/compiled/lib/couchdb/erlang/lib/erl_interface-3.7.14/src/legacy/erl_connect.c
+END
