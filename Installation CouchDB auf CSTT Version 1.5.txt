@@ -14,7 +14,7 @@ vi /usr/local/etc/couchdb/local.ini
 cacert_file = /usr/local/ssl/ca_sbs.pem
 cert_file = /usr/local/ssl/cstt.cordaware.com.pem
 key_file = /usr/local/ssl/serverkey.pem
-password = CW$cstt2014
+password = {PASSWORD}
 
 
 [vhosts]
@@ -62,7 +62,7 @@ BaseDN = DC=cordaware,DC=local
 ; if you have anonymous LDAP queries enabled (not recommended) you may simply provide the
 ; `anon` CN and a blank password.
 SearchUserDN = CN=CSTT,OU=SBSUsers,OU=Users,OU=MyBusiness,DC=Cordaware,DC=local
-SearchUserPassword = CW$cstt2014
+SearchUserPassword = {PASSWORD}
 
 ; On ActiveDirectory, you might choose from:
 ; - sAMAccountName, e.g. jsmith
@@ -128,7 +128,7 @@ curl -d @security_cstt_web.json -u admin -X PUT http://127.0.0.1:5984/cstt_web/_
 
 Replication Dokumente in der Datenbank anpassen!
 
-URL: https://admin:CW$cstt2014@couchdbDNS:6984/
+URL: https://admin:{PASSWORD}@couchdbDNS:6984/
 
 "user_ctx": {
        "name": "admin",
@@ -143,7 +143,7 @@ Beispiel:
    "_id": "cwserver22_to_cwserver28_cstt",
    "_rev": "5-bc0a16876a391f03f6309b0a6f169242",
    "target": "cstt",
-   "source": "https://admin:CW$cstt2014@192.168.1.124:6984/cstt",
+   "source": "https://admin:{PASSWORD}@192.168.1.124:6984/cstt",
    "continuous": true,
    "owner": "admin",
    "_replication_state": "triggered",
@@ -159,7 +159,7 @@ Beispiel:
 
  "_id": "rep_hetzner_to_local_cstt_web",
    "target": "cstt_web",
-   "source": "https://admin:CW$cstt2014@5.9.236.82:6984/cstt_web",
+   "source": "https://admin:{PASSWORD}@5.9.236.82:6984/cstt_web",
    "continuous": true,
    "owner": "admin",
    "user_ctx": {
@@ -171,7 +171,7 @@ Beispiel:
 
 "_id": "rep_hetzner_to_local_cstt",
    "target": "cstt",
-   "source": "https://admin:CW$cstt2014@5.9.236.82:6984/cstt",
+   "source": "https://admin:{PASSWORD}@5.9.236.82:6984/cstt",
    "continuous": true,
    "owner": "admin",
    "user_ctx": {

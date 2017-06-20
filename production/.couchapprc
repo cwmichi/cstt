@@ -19,7 +19,7 @@
         "db" : "http://cwserver22:5984/test_tickets"
     },
      "cstt" : {
-        "db" : "https://admin:CW$cstt2014@192.168.1.138/cstt_web"
+        "db" : "https://admin:{PASSWORD}@192.168.1.138/cstt_web"
     }
   }
 }

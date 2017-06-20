@@ -19,7 +19,7 @@
     ; if you have anonymous LDAP queries enabled (not recommended) you may simply provide the
     ; `anon` CN and a blank password.
     SearchUserDN = CN=CSTT,OU=SBSUsers,OU=Users,OU=MyBusiness,DC=Cordaware,DC=local
-    SearchUserPassword = CW$cstt2014
+    SearchUserPassword = {PASSWORD}
 
     ; On ActiveDirectory, you might choose from:
     ; - sAMAccountName, e.g. jsmith
@@ -49,7 +49,7 @@ vi /usr/local/etc/couchdb/local.ini
 cacert_file = /usr/local/ssl/ca_sbs.pem
 cert_file = /usr/local/ssl/cstt.cordaware.com.pem
 key_file = /usr/local/ssl/serverkey.pem
-password = CW$cstt2014
+password = {PASSWORD}
 
 
 
