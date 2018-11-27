@@ -8,3 +8,7 @@ start sencha cmd from
 
 
 sencha app build production
+
+
+ouputs with error in build/production/app.js
+upload app.js to cstt...
