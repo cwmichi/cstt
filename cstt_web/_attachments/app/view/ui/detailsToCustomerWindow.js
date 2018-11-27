@@ -132,6 +132,12 @@ Ext.define('cstt.view.ui.detailsToCustomerWindow', {
                             itemId: 'specials',
                             fieldLabel: 'Besonderheiten',
                             labelStyle: 'font-weight:bold;'
+                        },
+                        {
+                            xtype: 'displayfield',
+                            itemId: 'dcpc',
+                            fieldLabel: 'AV-Vertrag',
+                            labelStyle: 'font-weight:bold;'
                         }
                     ]
                 }

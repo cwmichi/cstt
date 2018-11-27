@@ -116,6 +116,11 @@ Ext.define('cstt.model.allCustomersModel', {
             type: 'string'
         },
         {
+            name: 'dcpc',
+            type: 'boolean',
+            defaultValue: false
+        },
+        {
             name: 'creator_ID',
             type: 'string'
         },

@@ -503,6 +503,7 @@ Ext.define('cstt.view.ui.csttViewport', {
                                         xtype: 'menuitem',
                                         iconCls: 'database_add',
                                         text: 'Neuen Kunden anlegen',
+                                        hidden: true,
                                         listeners: {
                                             click: {
                                                 fn: me.pressNewCustomer,
@@ -537,6 +538,7 @@ Ext.define('cstt.view.ui.csttViewport', {
                                     {
                                         xtype: 'menuitem',
                                         iconCls: 'user_add',
+                                        hidden: true,
                                         text: 'Neue Kontaktperson anlegen',
                                         listeners: {
                                             click: {

@@ -165,7 +165,9 @@ Ext.define('cstt.view.newTicketForm', {
     	// unbedingt beachten!
     	var reseller = false;
     	if(!Ext.isEmpty(records)) {
-    		reseller = records[0].get('reseller');
+    		if(records[0].data.reseller) {
+    		    reseller = records[0].data.reseller
+    		}
     	} 
     	
     	if(reseller === true) {
@@ -320,6 +322,13 @@ Ext.define('cstt.view.newTicketForm', {
                
                 // Informationen zum Kunden setzen 
                 // Edition setzen
+
+                 // AV-Vertrag setzen
+                if(json.dcpc === true) {
+                    this.down('#ticketValueDcpc').setValue("JA");
+                } else {
+                    this.down('#ticketValueDcpc').setValue("NEIN");
+                }
                 if(json.editionProduct !== '') {
                     this.down('#ticketValueEditionProduct').setValue(json.editionProduct);
                 } else { this.down('#ticketValueEditionProduct').setValue('');}

@@ -83,6 +83,13 @@ Ext.define('cstt.view.detailsToCustomerWindow', {
        
                     // Besonderheiten setzen
                     this.down('#specials').setValue(Ext.String.ellipsis(json.specials, 60, false));
+
+                    // Datenschutz setzen
+                    if(json.dcpc === true) {
+                        this.down('#dcpc').setValue("JA");
+                    } else {
+                        this.down('#dcpc').setValue("NEIN");
+                    }
                    
                     // Wait Message verbergen			
                     Ext.MessageBox.hide();

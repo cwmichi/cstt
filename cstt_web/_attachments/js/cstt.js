@@ -1,6 +1,6 @@
   // Programmversion
-var programVersion = '1.5';
-var releaseDate = '28.07.2014';
+var programVersion = '1.6';
+var releaseDate = '27.11.2018';
 
 var sessionFullUsername,sessionUserID,sessionUsername,sessionEmail,isAdmin,isSupport,isSales,isTCOB;
 

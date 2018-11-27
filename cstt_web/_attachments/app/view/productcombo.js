@@ -11,6 +11,7 @@ Ext.define('cstt.view.productcombo', {
     width: 360,
     store: 'productstore',
     valueField: 'value',
+    value: 'version6',
     
     beforeBlur: function(){
         var value = this.getRawValue();

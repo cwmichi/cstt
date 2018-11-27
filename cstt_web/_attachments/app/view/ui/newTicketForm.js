@@ -217,8 +217,8 @@ Ext.define('cstt.view.ui.newTicketForm', {
                 {
                     xtype: 'fieldset',
                     width: 700,
-                    collapsed: true,
-                    collapsible: true,
+                    collapsed: false,
+                    //collapsible: true,
                     title: 'Optionale Felder (z. B. AKM, Javaclient etc.)',
                     items: [
                         {
@@ -237,7 +237,7 @@ Ext.define('cstt.view.ui.newTicketForm', {
                                 {
                                     xtype: 'panel',
                                     frame: true,
-                                    height: 250,
+                                    height: 280,
                                     layout: {
                                         type: 'column'
                                     },
@@ -347,6 +347,14 @@ Ext.define('cstt.view.ui.newTicketForm', {
                                                     width: 280,
                                                     submitValue: false,
                                                     fieldLabel: 'Besonderheiten',
+                                                    labelStyle: 'font-weight: bold;'
+                                                },
+                                                {
+                                                    xtype: 'displayfield',
+                                                    itemId: 'ticketValueDcpc',
+                                                    width: 280,
+                                                    submitValue: false,
+                                                    fieldLabel: 'AV-Vertrag',
                                                     labelStyle: 'font-weight: bold;'
                                                 }
                                             ]

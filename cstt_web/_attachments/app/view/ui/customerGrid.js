@@ -76,7 +76,7 @@ Ext.define('cstt.view.ui.customerGrid', {
                     width: 60,
                     dataIndex: 'accountid',
                     text: 'VTiger ID'
-                },
+                }/*,
                 {
                     xtype: 'actioncolumn',
                     hideable: false,
@@ -90,7 +90,7 @@ Ext.define('cstt.view.ui.customerGrid', {
                         	handler: this.onEditClick
                         }
                     ]
-                }
+                }*/
             ],
             viewConfig: {
                 emptyText: 'Keine Kunden vorhanden ...',
@@ -174,6 +174,7 @@ Ext.define('cstt.view.ui.customerGrid', {
                             xtype: 'button',
                             iconCls: 'database_add',
                             text: 'Neuen Kunden anlegen',
+                            hidden: true,
                             tooltip: 'Neuen Kunden anlegen ...',
                             listeners: {
                                 click: {

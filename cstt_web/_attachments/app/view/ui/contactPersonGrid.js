@@ -92,7 +92,7 @@ Ext.define('cstt.view.ui.contactPersonGrid', {
                     dataIndex: 'position',
                     text: 'Position/Rolle'
                 },
-                {
+                /*{
                     xtype: 'actioncolumn',
                     hideable: false,
                     width: 25,
@@ -105,7 +105,7 @@ Ext.define('cstt.view.ui.contactPersonGrid', {
                         	handler: this.onEditClick
                         }
                     ]
-                },
+                },*/
                 {
                     xtype: 'actioncolumn',
                     hideable: false,
@@ -221,6 +221,7 @@ Ext.define('cstt.view.ui.contactPersonGrid', {
                             xtype: 'button',
                             itemId: 'addContactButton',
                             iconCls: 'user_add',
+                            hidden: true,
                             text: 'Neue Kontaktperson anlegen',
                             tooltip: 'Neue Kontaktperson anlegen ...',
                             listeners: {

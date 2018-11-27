@@ -380,6 +380,12 @@ Ext.define('cstt.view.showOneTicket', {
                 
                 // Firma setzen
 				ticketPanel.down('#companyName').setValue(json.company);
+
+				if(json.dcpc === true) {
+				    ticketPanel.down('#dcpc').setValue("JA");
+				} else {
+				    ticketPanel.down('#dcpc').setValue("NEIN");
+				}
 				
 				var companyToolTip = "";
 				

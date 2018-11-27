@@ -257,6 +257,14 @@ Ext.define('cstt.view.ui.showOneTicket', {
                                             labelStyle: 'font-weight:bold;',
                                             width: 500,
                                             labelWidth: 130
+                                        },
+                                        {
+                                            xtype: 'displayfield',
+                                            itemId: 'dcpc',
+                                            fieldLabel: 'AV-Vertrag',
+                                            labelStyle: 'font-weight:bold;',
+                                            width: 500,
+                                            labelWidth: 130
                                         }
                                     ]
                                 },

@@ -374,6 +374,11 @@ Ext.define('cstt.view.ui.createCustomerWindow', {
                                                     xtype: 'textfield',
                                                     name: 'specials',
                                                     fieldLabel: 'Besonderheiten'
+                                                },
+                                                {
+                                                    xtype: 'textfield',
+                                                    name: 'dcpc',
+                                                    fieldLabel: 'AV-Vertrag'
                                                 }
                                             ]
                                         }

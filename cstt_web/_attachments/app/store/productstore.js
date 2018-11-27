@@ -13,6 +13,10 @@ Ext.define('cstt.store.productstore', {
             autoLoad: true,
             storeId: 'productstore',
             data: [
+                {
+                    value: 'version6',
+                    name: 'Cordaware bestinformed V6'
+                },
 				{
                     value: 'akm',
                     name: 'Alarm Edition Konfigurationsmanager'
